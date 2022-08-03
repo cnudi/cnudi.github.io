@@ -1,21 +1,11 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 10/05/22
+  title: "TNNLS Paper Accept"
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - Paper Accept
+  content: Prof. Lim's paper "SiReN: Sign-Aware Recommendation Using Graph Neural Networks" on graph neural networks got accepted at TNNLS, which is one of the top journal in artificial intelligence.
 
-- date: 03/09/19
-  title: "Something great"
+- date: 23/04/22
+  title: "Information Sciences Paper Accept"
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - Paper Accept
+  content: Prof. Lim's paper "OCSM: Finding Overlapping Cohesive Subgraphs with Minimum Degree" got accepted at TNNLS, which is one of the top journal in data mining.

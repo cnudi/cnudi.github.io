@@ -1,38 +1,96 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "http://zotero.org/users/local/zFSA3IMM/items/KKRF6NSB",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
-		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"container-title": "IEEE Transactions on Neural Networks and Learning Systems",
+		"DOI": "10.1109/TNNLS.2022.3175772",
+		"ISSN": "2162-237X, 2162-2388",
+		"journalAbbreviation": "IEEE Trans. Neural Netw. Learning Syst.",
+		"page": "1-15",
+		"source": "DOI.org (Crossref)",
+		"title": "SiReN: Sign-Aware Recommendation Using Graph Neural Networks",
+		"title-short": "SiReN",
+		"URL": "https://ieeexplore.ieee.org/document/9781816/",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Seo",
+				"given": "Changwon"
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Jeong",
+				"given": "Kyeong-Joong"
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
+				"family": "Lim",
+				"given": "Sungsu"
 			},
 			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Shin",
+				"given": "Won-Yong"
 			}
 		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					3
+				]
+			]
+		},
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
-					2
+					"2022"
+				]
+			]
+		}
+	}
+]
+
+[
+	{
+		"id": "http://zotero.org/users/local/zFSA3IMM/items/F2I4DIGN",
+		"type": "article-journal",
+		"container-title": "Information Sciences",
+		"DOI": "10.1016/j.ins.2022.06.020",
+		"ISSN": "00200255",
+		"journalAbbreviation": "Information Sciences",
+		"language": "en",
+		"page": "585-602",
+		"source": "DOI.org (Crossref)",
+		"title": "OCSM : Finding overlapping cohesive subgraphs with minimum degree",
+		"title-short": "OCSM",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0020025522006028",
+		"volume": "607",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Junghoon"
+			},
+			{
+				"family": "Lim",
+				"given": "Sungsu"
+			},
+			{
+				"family": "Kim",
+				"given": "Jungeun"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8
 				]
 			]
 		}
