@@ -1,14 +1,18 @@
-name: "Fraser Lab"
-description: "This is the official web page for the James Fraser Lab at UCSF."
+name: "Data Intelligence Lab"
 
-url: "http://fraserlab.com"
+description: "Data Intelligence Lab at Chungnam National University"
+
+url: "https://cnudi.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
+
 paginate_path: "news/page:num"
 
 permalink: pretty
+
 markdown: kramdown
+
 kramdown:
   parse_block_html: true
 
