@@ -1,19 +1,55 @@
 ---
-title: Fraser Lab
+title: Data Intelligence Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Data Intelligence Lab
+
 {: .display-4}
-<br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+
+**Chungnam National University**
+
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+We develop intelligent methods for learning and reasoning with complex real-world data, with a particular focus on **graph machine learning and its applications**.
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+Our research spans **Graph Representation Learning**, **Graph + LLM**, **Graph Applications**, **Trustworthy AI**, and **Industrial AI**.
+
 {: .welcomefont}
+
+---
+
+## Research Highlights
+
+### Graph Representation Learning
+Learning effective representations of complex relational data using graph neural networks and advanced graph learning methods.
+
+### Graph + LLM
+Combining graph-structured knowledge with large language models for GraphRAG, recommendation, knowledge graphs, and reasoning.
+
+### Graph Applications
+Developing graph-based approaches for real-world problems including traffic forecasting, anomaly detection, and community detection.
+
+### Trustworthy AI
+Developing reliable AI methods for uncertainty quantification, fairness, and trustworthy graph learning.
+
+### Industrial AI
+Applying graph learning, LLMs, and efficient AI techniques to practical industrial problems.
+
+---
+
+## Recent Highlights
+
+- **ICML 2026** — Quantile-Free Uncertainty Quantification in Graph Neural Networks
+- **SIGIR 2026** — StAR: Adaptive Structure-Aware Reranking for Semantic–Structural Alignment in GraphRAG
+- **SIGIR 2026** — DisCoRec: Disentangled Conformity-aware Recommendation with LLM-Guided Multi-View Learning
+- **WACV 2026** — MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models
+
+---
+
+**Data Intelligence Lab**  
+Department of Computer Science and Engineering, Chungnam National University  
+Daejeon, Republic of Korea
