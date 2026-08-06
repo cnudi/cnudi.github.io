@@ -14,7 +14,13 @@ Our research spans **Graph Representation Learning**, **Graph + LLM**, **Graph A
 
 ## Recent News
 
-- **Aug. 2026** — Soyoung Park received her Ph.D. degree.
-- **Jul. 2026** — Two papers were presented at SIGIR 2026.
-- **Jul. 2026** — QpiGNN was presented at ICML 2026.
-- **Feb. 2026** — DILAB × UNIST Workshop.
+<ul>
+{% for post in site.posts limit: 5 %}
+  <li>
+    <b>{{ post.date | date: "%b %Y" }}</b> —
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+<a href="/news/">More News →</a>
