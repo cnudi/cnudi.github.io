@@ -6,21 +6,26 @@ group: home
 
 ## About Us
 
-We develop intelligent methods for learning and reasoning with complex real-world data, with a particular focus on **graph machine learning and its applications**.
+Data Intelligence Lab (DILAB) develops machine learning methods for complex real-world data, with a particular focus on **graph machine learning and its integration with modern AI technologies**.
 
-Our research spans **Graph Representation Learning**, **Graph + LLM**, **Graph Applications**, **Trustworthy AI**, and **Industrial AI**.
+Our research spans:
+
+- **Graph Representation Learning**
+- **Graph + LLM**
+- **Graph Applications**
+- **Trustworthy AI**
+- **Industrial AI**
 
 ---
 
-## Recent News
+## Recent Highlights
 
-<ul>
-{% for post in site.posts limit: 5 %}
-  <li>
-    <b>{{ post.date | date: "%b %Y" }}</b> —
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
+**Aug. 2026** — *Who Should Teach?* was accepted to **CIKM 2026**.
 
-<a href="/news/">More News →</a>
+**Jul. 2026** — *StAR* and *DisCoRec* were presented at **SIGIR 2026**.
+
+**Jul. 2026** — *QpiGNN* was presented at **ICML 2026**.
+
+**2026** — *MR-Pruner* was published at **WACV 2026**.
+
+[More News →](/news/)
