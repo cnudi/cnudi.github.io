@@ -1,112 +1,172 @@
 ---
 title: Members
-layout: members
+layout: default
 group: members
 ---
 
 <h1>Members</h1>
 
 <h2>Professor</h2>
-
-{% for member in site.members %}
-  {% if member.category == "professor" %}
-    <hr>
-    <div id="{{ member.name }}" class="row member-profile">
-      <div class="col-sm-4">
-        <img class="img-fluid" src="{{ member.image }}" alt="{{ member.name }}" loading="lazy">
-      </div>
-
-      <div class="col-sm-8">
-        <h3>{{ member.name }}</h3>
-
-        <p>
-          {{ member.position }}<br>
-          {% if member.email %}
-            Email: {{ member.email }}
-          {% endif %}
-        </p>
-
-        {% if member.website %}
-          <a href="{{ member.website }}" target="_blank">Personal Web</a>
-        {% endif %}
-
-        {% if member.scholar %}
-          &nbsp;·&nbsp;
-          <a href="https://scholar.google.com/citations?user={{ member.scholar }}" target="_blank">Google Scholar</a>
-        {% endif %}
-
-        {{ member.description | markdownify }}
-      </div>
-    </div>
-  {% endif %}
-{% endfor %}
-
-
-<h2>Students</h2>
-
-{% for member in site.members %}
-  {% if member.category == "student" %}
-    <hr>
-    <div id="{{ member.name }}" class="row member-profile">
-      <div class="col-sm-4">
-        <img class="img-fluid" src="{{ member.image }}" alt="{{ member.name }}" loading="lazy">
-      </div>
-
-      <div class="col-sm-8">
-        <h3>{{ member.name }}</h3>
-
-        <p>
-          {{ member.position }}<br>
-          {% if member.email %}
-            Email: {{ member.email }}
-          {% endif %}
-        </p>
-
-        {% if member.website %}
-          <a href="{{ member.website }}" target="_blank">Personal Web</a>
-        {% endif %}
-
-        {% if member.scholar %}
-          &nbsp;·&nbsp;
-          <a href="https://scholar.google.com/citations?user={{ member.scholar }}" target="_blank">Google Scholar</a>
-        {% endif %}
-
-        {{ member.description | markdownify }}
-      </div>
-    </div>
-  {% endif %}
-{% endfor %}
-
-
 <hr>
 
-<h2>Part-time & Co-advising Students</h2>
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img class="img-fluid" src="/static/img/members/sungsu-lim.jpg" alt="Sungsu Lim">
+  </div>
 
-<h4>Part-time Ph.D. Students</h4>
+  <div class="col-sm-8">
+    <h3>Sungsu Lim (임성수)</h3>
+
+    <p>
+      Associate Professor at CNU CSE & AI, 2018–present<br>
+      Email: sungsu (AT) cnu.ac.kr
+    </p>
+
+    <p>
+      <b>Research Interests:</b><br>
+      Data Mining, Machine Learning, Graph Mining, Graph Neural Networks,
+      Graph + LLM, Trustworthy AI
+    </p>
+
+    <p>
+      <a href="https://sungsu-lim.github.io/" target="_blank">Personal Web</a>
+      &nbsp;·&nbsp;
+      <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ" target="_blank">Google Scholar</a>
+    </p>
+  </div>
+</div>
+
+
+<h2>Graduate Students</h2>
+<hr>
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img class="img-fluid" src="/static/img/members/seunghoon-han.jpg" alt="Seunghoon Han">
+  </div>
+
+  <div class="col-sm-8">
+    <h3>Seunghoon Han (한승훈)</h3>
+
+    <p>
+      MS/PhD Student at CNU CSE, 2023–present<br>
+      <b>Lab Representative</b><br>
+      Email: tmdgns129 (AT) o.cnu.ac.kr
+    </p>
+
+    <p>
+      <b>Research Interests:</b><br>
+      GNNs, Traffic Network Analysis, Efficient AI, LLMs
+    </p>
+  </div>
+</div>
+
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img class="img-fluid" src="/static/img/members/kwanhee-lee.jpg" alt="Kwanhee Lee">
+  </div>
+
+  <div class="col-sm-8">
+    <h3>Kwanhee Lee (이관희)</h3>
+
+    <p>
+      PhD Student at CNU CSE, 2026–present<br>
+      Email: kwanheelab01 (AT) gmail.com
+    </p>
+
+    <p>
+      <b>Research Interests:</b><br>
+      GNNs, Anomaly Detection, Time-series Analysis
+    </p>
+  </div>
+</div>
+
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img class="img-fluid" src="/static/img/members/minkyung-song.jpg" alt="Minkyung Song">
+  </div>
+
+  <div class="col-sm-8">
+    <h3>Minkyung Song (송민경)</h3>
+
+    <p>
+      MS Student at CNU CSE, 2025–2027 (expected)
+    </p>
+
+    <p>
+      <b>Research Interests:</b><br>
+      Recommender Systems, Causal Inference
+    </p>
+  </div>
+</div>
+
+
+<div class="row mb-5">
+  <div class="col-sm-4">
+    <img class="img-fluid" src="/static/img/members/junghyun-oh.jpg" alt="Junghyun Oh">
+  </div>
+
+  <div class="col-sm-8">
+    <h3>Junghyun Oh (오정현)</h3>
+
+    <p>
+      MS Student at CNU CSE, 2025–2027 (expected)
+    </p>
+
+    <p>
+      <b>Research Interests:</b><br>
+      GraphRAG, Graph Foundation Models
+    </p>
+  </div>
+</div>
+
+
+<h2>Undergraduate Researchers</h2>
+<hr>
+
+<div class="mb-4">
+  <h4>Seohyeon Lee (이서현)</h4>
+  <p>UG Student at CNU AI, 2026–present</p>
+</div>
+
+<div class="mb-4">
+  <h4>Tae Yeong Ha (하태영)</h4>
+  <p>UG Student at CNU AI, 2026–present</p>
+</div>
+
+
+<h2>Part-time Students</h2>
+<hr>
+
+<h4>Ph.D. Students</h4>
 <ul>
   <li><b>Jinyoung Kim (김진영)</b> — KISTI</li>
   <li><b>Jae-Wook Seol (설재욱)</b> — KISTI</li>
   <li><b>Jun-Hyoung Park (박준형)</b> — KFE</li>
 </ul>
 
-<h4>Part-time M.S. Students</h4>
+<h4>M.S. Students</h4>
 <ul>
   <li><b>Semi Min (민세미)</b> — KIRD</li>
 </ul>
 
-<h4>Co-advising Ph.D. Students</h4>
+
+<h2>Co-advising Students</h2>
+<hr>
+
 <ul>
   <li>
-    <b>Soomin Lee (이수민)</b> — Ewha Womans University
-    <br>
-    <small>Co-advisor: Dongil Kim</small>
+    <b>Soomin Lee (이수민)</b><br>
+    Ph.D. Student, Ewha Womans University<br>
+    Co-advisor: Dongil Kim
   </li>
 </ul>
 
 
-<hr>
-
 <h2>Alumni</h2>
+<hr>
 
 <h3>Ph.D. Graduates</h3>
 
@@ -167,35 +227,76 @@ group: members
   </li>
 </ul>
 
+
 <h3>M.S. Graduates</h3>
 
 <ul>
-  <li><b>Yeong Cheol Kim (김영철)</b> — M.S. 2023, Technical Research Personnel</li>
-  <li><b>Sub Jae Shin (신섭재)</b> — M.S. 2023, MedySapiens</li>
-  <li><b>Pilmin Park (박필민)</b> <em>(part-time)</em> — M.S. 2023, Ministry of Data and Statistics</li>
-  <li><b>Nakhyeon Seong (성낙현)</b> — M.S. 2023</li>
-  <li><b>Eun-Hyeong Bae (배은형)</b> <em>(part-time)</em> — M.S. 2024</li>
-  <li><b>Geonhee Jang (장건희)</b> <em>(co-advising)</em> — M.S. 2024</li>
-  <li><b>Mingyu Choi (최민규)</b> — M.S. 2025, AIBIZ</li>
-  <li><b>Jiyong Park (박지용)</b> <em>(part-time)</em> — M.S. 2025, K-water</li>
-  <li><b>Hyewon Lee (이혜원)</b> — M.S. 2026, KAERI</li>
+  <li><b>Yeong Cheol Kim (김영철)</b> — M.S. in CSE, February 2023 · Technical Research Personnel</li>
+
+  <li>
+    <b>Sub Jae Shin (신섭재)</b> <em>(co-advising)</em> — M.S. in BioAI, February 2023 · MedySapiens
+    <br>
+    <small>Co-advisor: Donghwan Shim</small>
+  </li>
+
+  <li><b>Pilmin Park (박필민)</b> <em>(part-time)</em> — M.S. in CSE, February 2023 · Ministry of Data and Statistics</li>
+
+  <li><b>Nakhyeon Seong (성낙현)</b> — M.S. in CSE, August 2023</li>
+
+  <li><b>Eun-Hyeong Bae (배은형)</b> <em>(part-time)</em> — M.S. in CSE, February 2024</li>
+
+  <li>
+    <b>Geonhee Jang (장건희)</b> <em>(co-advising)</em> — M.S. in CSE, August 2024
+    <br>
+    <small>Co-advisor: Dongil Kim</small>
+  </li>
+
+  <li><b>Mingyu Choi (최민규)</b> — M.S. in CSE, February 2025 · AIBIZ</li>
+
+  <li><b>Jiyong Park (박지용)</b> <em>(part-time)</em> — M.S. in CSE, February 2025 · K-water</li>
+
+  <li><b>Hyewon Lee (이혜원)</b> — M.S. in CSE, February 2026 · KAERI</li>
 </ul>
 
 
 <h3>Undergraduate Interns</h3>
 
-<p>
-Kim Beomjin · Jeong Jihwan · Lim Jieun · Song Minkyung · Kim Minki ·
-Lee Hyewon · Choi Mingyu · Han Seunghoon · Kang Dahyun · Seong Nakhyeon ·
-Park Jongmin · Jo Seunghyeon · Ahn Chaeryeong · Lee Hyunjun · Park Chanil ·
-Jeong Soohwan · Moon Taehong · Lee Sangin · Shim Kyuyoung · Lee Jaehoon ·
-Song Hayoung · Cheon Wonjun
-</p>
+<ul>
+  <li>Beomjin Kim (김범진), 2025–2026, CNU CSE → NMAIL @ KAIST (Intern)</li>
+  <li>Jihwan Jeong (정지환), 2025–2026, CNU CSE</li>
+  <li>Jieun Lim (임지은), 2025–2026, CNU CSE</li>
+  <li>Minkyung Song (송민경), 2024, CNU CSE → CNUDI</li>
+  <li>Minki Kim (김민기), 2024, CNU Math → VCLab @ CNU</li>
+  <li>Hyewon Lee (이혜원), 2023, CNU Math → CNUDI</li>
+  <li>Mingyu Choi (최민규), 2022, CNU CSE → CNUDI</li>
+  <li>Seunghoon Han (한승훈), 2022, CNU CSE → CNUDI</li>
+  <li>Dahyun Kang (강다현), 2021–2022, CBNU Info. Stat. → Employment</li>
+  <li>Nakhyeon Seong (성낙현), 2021, CNU CSE → CNUDI</li>
+  <li>Jongmin Park (박종민), 2019–2021, CNU CSE → CNUDI</li>
+  <li>Seunghyeon Jo (조승현), 2020, CNU CSE → Yonsei University (M.S. in AI)</li>
+  <li>Chaeryeong Ahn (안채령), 2020, HYU ERICA SW → Vector Korea</li>
+  <li>Hyunjun Lee (이현준), 2020, CNU CSE → NAVER</li>
+  <li>Chanil Park (박찬일), 2020, CNU CSE → Employment</li>
+  <li>Soohwan Jeong (정수환), 2019–2020, CNU CSE → CNUDI</li>
+  <li>Taehong Moon (문태홍), 2019–2020, SNU IE → KAIST (M.S. in AI)</li>
+  <li>Sangin Lee (이상인), 2019, CNU CSE, Youth TLO → Employment</li>
+  <li>Kyuyoung Shim (심규영), 2019, CNU CSE → Nota AI</li>
+  <li>Jaehoon Lee (이재훈), 2019, CNU CSE</li>
+  <li>Hayoung Song (송하영), 2018–2019, CNU Economics</li>
+  <li>Wonjun Cheon (천원준), 2018–2019, CNU CSE → Employment</li>
+</ul>
 
 
 <h3>Visiting Scholars</h3>
 
 <ul>
-  <li><b>Jin-woo Lee (이진우)</b> — Samsung SDS, 2026</li>
-  <li><b>Junghoon Kim (김정훈)</b> — NTU SCSE, 2021–2022; Current: UNIST CSE</li>
+  <li>
+    <b>Jin-woo Lee (이진우)</b> — Samsung SDS, 2026<br>
+    Current: Samsung SDS
+  </li>
+
+  <li>
+    <b>Junghoon Kim (김정훈)</b> — NTU SCSE, 2021–2022<br>
+    Current: UNIST CSE
+  </li>
 </ul>
