@@ -26,6 +26,6 @@ Our research spans:
 
 **Jul. 2026** — *QpiGNN* was presented at **ICML 2026**.
 
-**2026** — *MR-Pruner* was published at **WACV 2026**.
+**Mar. 2026** — *MR-Pruner* was published at **WACV 2026**.
 
 [More News →](/news/)
