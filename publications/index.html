@@ -7,15 +7,20 @@ group: publications
 <h1>Publications</h1>
 
 <p>
-For the complete and up-to-date publication list, please see
-<a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ" target="_blank">Google Scholar</a>.
+  Publications from the CNU Data Intelligence Lab.
+  For the complete publication record, see
+  <a href="https://sungsu-lim.github.io/publications/" target="_blank">Sungsu Lim's publication page</a>
+  or
+  <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ" target="_blank">Google Scholar</a>.
 </p>
 
-<p>
-* Corresponding author · † Equal contribution
-</p>
+<hr>
 
-{% assign sorted = site.publications | sort: "pub_date" | reverse %}
+{% assign sorted = site.publications
+  | where: "lab", "dilab"
+  | sort: "pub_date"
+  | reverse %}
+
 {% assign current_year = "" %}
 
 {% for publication in sorted %}
@@ -27,14 +32,15 @@ For the complete and up-to-date publication list, please see
     {% assign current_year = year %}
   {% endif %}
 
-  <div style="margin-bottom: 24px;">
+  <div style="margin-bottom: 22px;">
 
-    <h5 style="margin-bottom: 5px;">
+    <div>
       {% if publication.number %}
-        [{{ publication.number }}]
+        <b>[{{ publication.number }}]</b>
       {% endif %}
-      {{ publication.title }}
-    </h5>
+
+      <b>{{ publication.title }}</b>
+    </div>
 
     <div>
       {{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -42,9 +48,9 @@ For the complete and up-to-date publication list, please see
 
     <div>
       {% if publication.venue %}
-        <b>{{ publication.venue }}</b>
+        <i>{{ publication.venue }}</i>
       {% elsif publication.journal %}
-        <b>{{ publication.journal }}</b>
+        <i>{{ publication.journal }}</i>
       {% endif %}
 
       {% if publication.note %}
@@ -52,21 +58,15 @@ For the complete and up-to-date publication list, please see
       {% endif %}
     </div>
 
-    {% if publication.pdf or publication.url or publication.code %}
-      <div style="margin-top: 4px;">
-
-        {% if publication.pdf %}
-          <a href="{{ publication.pdf }}" target="_blank">[Paper]</a>
-        {% endif %}
-
-        {% if publication.url %}
-          <a href="{{ publication.url }}" target="_blank">[Link]</a>
+    {% if publication.paper or publication.code %}
+      <div>
+        {% if publication.paper %}
+          <a href="{{ publication.paper }}" target="_blank">[Paper]</a>
         {% endif %}
 
         {% if publication.code %}
           <a href="{{ publication.code }}" target="_blank">[Code]</a>
         {% endif %}
-
       </div>
     {% endif %}
 
