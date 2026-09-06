@@ -24,11 +24,15 @@ Jeongseon Kim, Sanghun Jeon, Hyunjin Choo, and **Sungsu Lim**\*
 
 ### [J] GLaD: Global and Label-aware Document Modeling with Heterogeneous Graphs for Multi-Label Text Classification
 Soohwan Jeong, Jongmin Park, Susik Yoon\*, and **Sungsu Lim**\*  
-*Knowledge-Based Systems*, Submitted
+*Knowledge-Based Systems*, Under Review
 
 ### [J] Beyond Direct AI Exposure: Measuring Network-Mediated Labor Risk Through Multilayer Occupational Networks
 Soyoung Park†, Junghyun Oh†, Minkyung Song, Jin-woo Lee, Jincheul Jang, and **Sungsu Lim**\*  
 *EPJ Data Science*, In Preparation
+
+### [J] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
+Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
+*ACM Transactions on Knowledge Discovery from Data*, Submitted
 
 ### [J] Prediction of Total Ionization Cross Sections Using Graph Neural Networks
 ​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
@@ -88,10 +92,6 @@ Jongmin Park, Seunghoon Han, Junhyeong Lee, **Sungsu Lim**, and Seunghwa Ryu\*
 
 ### [P] (Work on fairness in GNNs)
 Soyoung Park and **Sungsu Lim**\*  
-Preprint
-
-### [P] (work on graph clustering)
-Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
 Preprint
 
 ### [P] (Work on retrieval-augmented classification with LLM)
