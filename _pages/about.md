@@ -89,7 +89,8 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 - *2018–2023*: Assistant Professor, Chungnam National University
 - *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: Jae-Gil Lee)
 - *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: Kyomin Jung)
-- *2009-2011*: Research Assistant, Statistical Lab., (Advisor: Sung-Ho Kim)
+- *2009-2011*: Research Assistant, Statistical Lab., KAIST (Advisor: [Sung-Ho Kim](https://mathsci.kaist.ac.kr/~slki/index.files/prof.htm))
+
 
 # 📖 Education
 
