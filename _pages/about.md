@@ -131,7 +131,8 @@ Selected courses at Chungnam National University:
 - **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, etc.
 - **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
 - **Reviewer** : Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences, etc.
-- **Advisory Board Member** : Daejeon [AI Innovation & Strategy]() Data and Statistics Research Institute
+- **Advisory Board Member** : [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Data and Statistics Research Institute, etc.
+
 
 # 🎤 Selected Invited Talks
 
