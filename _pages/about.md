@@ -89,7 +89,7 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 - *2018–2023*: Assistant Professor, Chungnam National University
 - *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: Jae-Gil Lee)
 - *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: Kyomin Jung)
-
+- *2009-2011*: Research Assistant, Statistical Lab., (Advisor: Sung-Ho Kim)
 
 # 📖 Education
 
@@ -117,6 +117,7 @@ Our students have received research fellowships and awards from NRF Korea, NST, 
 Selected courses at Chungnam National University:
 
 - Machine Learning with Graphs
+- Lightweight Deep Learning
 - Topics in Data Mining
 - Deep Learning
 - Data Science
@@ -130,8 +131,8 @@ Selected courses at Chungnam National University:
 - **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100) (Workshop Chair), etc.
 - **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, etc.
 - **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
-- **Reviewer** : Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences, etc.
-- **Advisory Board Member** : [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Data and Statistics Research Institute, etc.
+- **Reviewer**: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences, etc.
+- **Advisory Board Member**: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Data and Statistics Research Institute, etc.
 
 
 # 🎤 Selected Invited Talks
