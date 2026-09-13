@@ -130,7 +130,7 @@ Selected courses at Chungnam National University:
 # 🤝 Professional Service
 
 - **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100) (Workshop Chair), etc.
-- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, etc.
+- **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigComp, etc. (+ reviews for ML/NLP conferences)
 - **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
 - **Reviewer**: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, and Information Sciences, etc.
 - **Advisory Board Member**: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Data and Statistics Research Institute, etc.
@@ -141,5 +141,6 @@ Selected courses at Chungnam National University:
 - *2026*: Graph Learning: Representation, Recommendation, Reasoning, and Reliability, UNIST (upcoming)
 - *2026*: Generative & Trustworthy AI, Chungnam National University Hospital
 - *2026*: Trustworthy AI, Korea Astronomy and Space Science Institute
-- *2025*: LLM & RAG, Public Procurement Service
+- *2025*: Uncertainty Quantification in GNNs, Winter Conference of Korean Statistical Society
+- *2025*: Generative AI - LLM & RAG, Public Procurement Service
 - *2024*: Heterogeneous Graph Embedding, Kangwon National University
