@@ -86,9 +86,10 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee\*, and **Sungsu Lim**\*
 
 - *2023–present*: Associate Professor, Chungnam National University
 - *2024–2025*: Advisor & Visiting Researcher, [Nota AI](https://www.nota.ai/), Sunnyvale, CA, USA
+- *2020-2024*: Advisor, [Institute of Science Education for the Gifted](https://gifted.cnu.ac.kr/gifted/), Chungnam National University
 - *2018–2023*: Assistant Professor, Chungnam National University
-- *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: Jae-Gil Lee)
-- *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: Kyomin Jung)
+- *2013–2016*: Research Assistant, Data Mining Lab., KAIST (Advisor: [Jae-Gil Lee](https://www.kaistdmlab.org/jaegil))
+- *2010–2013*: Research Assistant, Applied Algorithm Lab., KAIST (Advisor: [Kyomin Jung](https://milab.snu.ac.kr/kjung/))
 - *2009-2011*: Research Assistant, Statistical Lab., KAIST (Advisor: [Sung-Ho Kim](https://mathsci.kaist.ac.kr/~slki/index.files/prof.htm))
 
 
@@ -129,11 +130,11 @@ Selected courses at Chungnam National University:
 
 # 🤝 Professional Service
 
-- **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100) (Vice-Co-Chair), [KCC 2022](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2022&content_no=1525&PARENT_ID=010700) (Vice-Co-Chair) etc.
+- **Organizing Committee**: [KDD 2026](https://kdd2026.kdd.org/acm-kdd-2026-organizing-committee/) (Poster Chair), [BigComp 2027](https://bigcomp2027-website.pages.dev/organization/) (Social Media Chair), [KCC 2026](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2026&content_no=2417&PARENT_ID=010100), [KCC 2022](https://www.kiise.or.kr/conference/main/getContent.do?CC=kcc&CS=2022&content_no=1525&PARENT_ID=010700), etc.
 - **Program Committee**: AAAI, SIGIR, CIKM, DASFAA, PAKDD, ECAI, BigData, BigComp, KSIAM Spring/Fall, etc.
 - **Editorial Board Member**: Frontiers in Big Data, Journal of KIISE, Communications of KIISE, etc.
-- **Reviewer**: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, Information Sciences, ML/NLP Conferences, etc.
-- **Advisory Board Member**: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI [DataON](https://dataon.kisti.re.kr/), etc.
+- **Reviewer**: Proceedings of the IEEE, IEEE TKDE, VLDB Journal, Information Sciences, ML Conferences, etc.
+- **Advisory Board Member**: [Daejeon AI Innovation Strategy](https://n.news.naver.com/article/056/0012255252?sid=102), Ministry of Data and Statistics, KISTI DataON, etc.
 
 
 # 🎤 Selected Invited Talks
