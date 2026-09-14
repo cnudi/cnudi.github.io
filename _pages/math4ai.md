@@ -26,7 +26,7 @@ Course information will be updated before the semester.
 | Week | Topic | Materials |
 |:---:|---|---|
 | 1 | Course Introduction |  |
-| 2 | Linear Algebra |  |
+| 2 | Linear Algebra | [Slides](/docs/math4ai/math4ai_02_linear_algebra.pdf) |
 | 3 | Analytic Geometry |  |
 | 4 | Matrix Decomposition #1 |  |
 | 5 | Matrix Decomposition #2 |  |
