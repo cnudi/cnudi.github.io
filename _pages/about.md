@@ -145,3 +145,11 @@ Selected courses at Chungnam National University:
 - *2025*: Uncertainty Quantification in GNNs, Winter Conference of Korean Statistical Society
 - *2025*: Generative AI - LLM & RAG, Public Procurement Service
 - *2024*: Heterogeneous Graph Embedding, Kangwon National University
+- *2022*: Heterogeneous Graph Embedding, UNIST EE
+- *2021*: Multi-aspect Graph Embedding, KSIAM Annual Meeting
+- *2021*: Learning on Graphs, Univ. of Seoul AI
+- *2020*: Learning on Graphs, IBS Data Science Group
+- *2020*: Detecting Communities and Anomalies in Large Real-world Graphs, IEEE BigComp (Tutorial)
+- *2019*: Community Detection in Graphs, Kyung Hee University CS
+- *2019*: Learning on Graphs, Korea-Japan Database Workshop
+- *2019*: Graph Representation Learnin, KCC (Tutorial)
