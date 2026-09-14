@@ -28,7 +28,7 @@ Soohwan Jeong, Jongmin Park, Susik Yoon\*, and **Sungsu Lim**\*
 
 ### [J] Beyond Direct AI Exposure: Measuring Network-Mediated Labor Risk Through Multilayer Occupational Networks
 Soyoung Park†, Junghyun Oh†, Minkyung Song, Jin-woo Lee, Jincheul Jang, and **Sungsu Lim**\*  
-*EPJ Data Science*, Submitted
+*EPJ Data Science*, Under Review
 
 ### [J] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
 Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
