@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-I have published 50+ peer-reviewed papers in international journals and conferences, with <span id="total_cit">—</span> Google Scholar citations. For the complete and up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ).
+I have published 50+ peer-reviewed papers in international journals and conferences, with 1,000+ Google Scholar citations. For the complete and up-to-date list, please see my [Google Scholar](https://scholar.google.com/citations?user=cMQT0a8AAAAJ).
 
 \* Corresponding author · † Equal contribution
 
@@ -33,10 +33,6 @@ Soyoung Park†, Junghyun Oh†, Minkyung Song, Jin-woo Lee, Jincheul Jang, and 
 ### [J] Understanding Clustering Behaviour through Structural Similarity Design in SCAN-based Graph Clustering
 Dahee Kim, Taejoon Han, Junghoon Kim\*, and **Sungsu Lim**  
 *ACM Transactions on Knowledge Discovery from Data*, Submitted
-
-### [J] Prediction of Total Ionization Cross Sections Using Graph Neural Networks
-​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
-*Plasma Sources Science and Technology*, In Revision
 
 ### [J] UNITE: Unified Table Extraction Pipeline for XML Structuring in Scientific Documents
 Jaewook Seol, Hyejin Lee, and **Sungsu Lim**\*  
@@ -100,6 +96,10 @@ Preprint
 
 
 # 2026
+
+### [J36] Data-Driven Prediction of Total Ionization Cross Sections for Small Molecules Using Graph Neural Networks
+​Jun-Hyoung Park, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and **Sungsu Lim**\*  
+*Plasma Sources Science and Technology*, Accepted
 
 ### [C24] Who Should Teach? Confidence-Aware Dual-Teacher Learning for Few-Shot Node Classification on Text-Attributed Graphs
 Hojin Kim, Sujin Yoon, **Sungsu Lim**, Dongwon Lee, and David Yoon Suk Kang\*  
