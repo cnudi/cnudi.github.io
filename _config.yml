@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Data Intelligence Lab"
-  avatar           :
+  avatar           : "/images/dilab-logo.png"
   bio              : "Chungnam National University"
-  location         : "Daejeon, Republic of Korea"
-  employer         : "Department of Computer Science and Engineering, Chungnam National University"
+  location         : "Daejeon, South Korea"
+  employer         :
   pubmed           :
   googlescholar    :
   email            :
