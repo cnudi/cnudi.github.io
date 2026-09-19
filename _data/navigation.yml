@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "About"
+    url: /
+
+  - title: "People"
+    url: /people/
 
   - title: "Publications"
-    url: "/publications/"
+    url: /publications/
 
-  - title: "Blog"
-    url: "/blog/"
-
-  - title: "Math4AI"
-    url: "/math4ai/"
+  - title: "Photos"
+    url: /photos/
