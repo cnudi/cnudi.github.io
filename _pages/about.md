@@ -27,13 +27,13 @@ redirect_from:
 
 .dilab-hero {
   text-align: center;
-  margin: 1.2rem auto 2.8rem;
+  margin: 1.0rem auto 2.5rem;
 }
 
 .dilab-hero img {
   display: block;
   width: 100%;
-  max-width: 760px;
+  max-width: 620px;
   height: auto;
   margin: 0 auto;
 }
