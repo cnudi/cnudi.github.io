@@ -77,8 +77,8 @@ author_profile: true
 }
 
 .dilab {
-  color: #2563a6;
-  font-weight: 600;
+  color: #3976a8;
+  font-weight: 400;
 }
 
 /* Headings */
@@ -131,7 +131,7 @@ author_profile: true
   <p class="interests">Efficient AI, Multimodal AI, GNNs</p>
   <p>
     <a href="https://sites.google.com/view/seunghoon-han">Homepage</a> ·
-    <a href="https://scholar.google.co.kr/citations?user=HATQ8zsAAAAJ">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=HATQ8zsAAAAJ">Google Scholar</a>
   </p>
 </div>
 
@@ -154,7 +154,7 @@ author_profile: true
   <p class="interests">Recommender Systems, LLMs, Agentic AI</p>
   <p>
     <a href="https://smingaeng.github.io/">Homepage</a> ·
-    <a href="https://scholar.google.co.kr/citations?user=Oz7m7M4AAAAJ">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=Oz7m7M4AAAAJ">Google Scholar</a>
   </p>
 </div>
 
@@ -163,7 +163,7 @@ author_profile: true
   <h3>Junghyun Oh</h3>
   <p class="interests">GraphRAG, LLMs, Information Retrieval</p>
   <p>
-    <a href="https://scholar.google.co.kr/citations?user=sHkiTMQAAAAJ">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=sHkiTMQAAAAJ">Google Scholar</a>
   </p>
 </div>
 
@@ -200,15 +200,15 @@ author_profile: true
 
 <div class="member-list">
 
-<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=V2TxDWcAAAAJ">Google Scholar</a><br>
+<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=V2TxDWcAAAAJ">Google Scholar</a><br>
 
-<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=piMrsTcAAAAJ">Google Scholar</a><br>
+<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=piMrsTcAAAAJ">Google Scholar</a><br>
 
 <span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a><br>
 
-<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
+<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
 
-<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoctoral Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=gVs80sgAAAAJ">Google Scholar</a>
+<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoctoral Researcher</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
 
 </div>
 
@@ -221,7 +221,7 @@ author_profile: true
 <span class="member-name">Sub Jae Shin</span> <span class="member-info">(Feb. 2023) — MedySapiens</span><br>
 <span class="member-name">Nakhyeon Seong</span> <span class="member-info">(Aug. 2023)</span><br>
 <span class="member-name">Mingyu Choi</span> <span class="member-info">(Feb. 2025) — AIBIZ</span><br>
-<span class="member-name">Hyewon Lee</span> <span class="member-info">(Feb. 2026) — KAERI, Post-Master's Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=1arNStIAAAAJ">Google Scholar</a>
+<span class="member-name">Hyewon Lee</span> <span class="member-info">(Feb. 2026) — KAERI, Post-Master's Researcher</span> · <a href="https://scholar.google.com/citations?user=1arNStIAAAAJ">Google Scholar</a>
 
 </div>
 
@@ -230,9 +230,9 @@ author_profile: true
 
 <div class="member-list">
 
-<span class="member-name">Hangoo Kang</span> <span class="member-info">(Ph.D., Feb. 2025) — KIOST</span> · <a href="https://scholar.google.co.kr/citations?user=Txl-WmAAAAAJ">Google Scholar</a><br>
+<span class="member-name">Hangoo Kang</span> <span class="member-info">(Ph.D., Feb. 2025) — KIOST</span> · <a href="https://scholar.google.com/citations?user=Txl-WmAAAAAJ">Google Scholar</a><br>
 
-<span class="member-name">Chanuk Lim</span> <span class="member-info">(Ph.D., Feb. 2026) — KISTI</span> · <a href="https://scholar.google.co.kr/citations?user=9Sv-nVgAAAAJ">Google Scholar</a><br>
+<span class="member-name">Chanuk Lim</span> <span class="member-info">(Ph.D., Feb. 2026) — KISTI</span> · <a href="https://scholar.google.com/citations?user=9Sv-nVgAAAAJ">Google Scholar</a><br>
 
 <span class="member-name">Pilmin Park</span> <span class="member-info">(M.S., Feb. 2023) — Ministry of Data and Statistics</span><br>
 <span class="member-name">Eun-Hyeong Bae</span> <span class="member-info">(M.S., Feb. 2024) — Data Scientist</span><br>
@@ -277,5 +277,7 @@ author_profile: true
 
 <span class="member-name">Jin-woo Lee</span> <span class="member-info">(2026, Samsung SDS)</span><br>
 <span class="member-name">Junghoon Kim</span> <span class="member-info">(2021–2022, NTU SCSE)</span>
+· <a href="https://sites.google.com/view/junghoon-kim">Homepage</a>
+· <a href="https://scholar.google.com/citations?user=YtmHMZkAAAAJ">Google Scholar</a>
 
 </div>
