@@ -170,12 +170,23 @@ author_profile: true
 </div>
 
 
-### Undergraduate Interns
+# Undergraduate Researchers
 
-<div class="member-list">
+<div class="people-grid">
 
-<span class="member-name">Seohyeon Lee</span> <span class="member-info">(CNU AI)</span><br>
-<span class="member-name">Tae Yeong Ha</span> <span class="member-info">(CNU CSE)</span>
+<div class="person-card">
+<img src="/images/dilab-favicon.jpg" alt="Seohyeon Lee">
+<h3>Seohyeon Lee</h3>
+<p>Undergraduate Researcher</p>
+<p class="interests">CNU AI</p>
+</div>
+
+<div class="person-card">
+<img src="/images/dilab-favicon.jpg" alt="Tae Yeong Ha">
+<h3>Tae Yeong Ha</h3>
+<p>Undergraduate Researcher</p>
+<p class="interests">CNU CSE</p>
+</div>
 
 </div>
 
