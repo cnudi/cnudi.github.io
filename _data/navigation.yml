@@ -1,6 +1,9 @@
 # main links
 main:
-  - title: "People"
+  - title: "Home"
+    url: /
+
+  - title: "Members"
     url: /people/
 
   - title: "Publications"
