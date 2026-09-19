@@ -161,14 +161,13 @@ redirect_from:
 
 <p>
 We are the <strong>Data Intelligence Lab (DILAB)</strong> at the
-School of Computing and AI, Chungnam National University.
+Department of Computer Science and Engineering, Chungnam National University.
 </p>
 
 <p>
 Our research focuses on <strong>graph machine learning</strong>,
-<strong>trustworthy AI</strong>, <strong>GraphRAG and LLMs</strong>,
-and <strong>recommender systems</strong>, with broader interests in
-data mining and knowledge-enhanced AI.
+<strong>trustworthy AI</strong>, <strong>recommender systems & IR</strong>,
+and <strong>GraphRAG & LLMs</strong>.
 </p>
 
 </div>
@@ -201,18 +200,18 @@ of machine learning models.
 </div>
 
 <div class="research-card">
-<h3>GraphRAG & LLMs</h3>
-<p>
-Graph-enhanced retrieval, reasoning, and knowledge
-augmentation for large language models.
-</p>
-</div>
-
-<div class="research-card">
 <h3>Recommender Systems & IR</h3>
 <p>
 Learning and retrieval methods for personalized and
 knowledge-rich information systems.
+</p>
+</div>
+
+<div class="research-card">
+<h3>GraphRAG & LLMs</h3>
+<p>
+Graph-enhanced retrieval, reasoning, and knowledge
+augmentation for large language models.
 </p>
 </div>
 
@@ -226,37 +225,37 @@ knowledge-rich information systems.
 <div class="news-item">
 <span class="news-date">2026.08</span>
 🎉 Our work on <strong>few-shot node classification on text-attributed graphs</strong>
-was accepted to CIKM 2026.
+was accepted to <em>CIKM 2026</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2026.07</span>
 🎉 Our work on <strong>uncertainty quantification for GNNs</strong>
-was presented at ICML 2026.
+was presented at <em>ICML 2026</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2026.07</span>
 🎉 Two papers on <strong>GraphRAG</strong> and
-<strong>recommendation</strong> were presented at SIGIR 2026.
+<strong>recommendation</strong> were presented at <em>SIGIR 2026</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2026.03</span>
 🎉 Our work on <strong>visual token pruning for multimodal LLMs</strong>
-was presented at WACV 2026.
+was presented at <em>WACV 2026</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2026.02</span>
 🎉 Our work on <strong>LLM-enhanced graph representation learning</strong>
-was presented at WSDM 2026.
+was presented at <em>WSDM 2026</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2025.11</span>
 🎉 Two papers on <strong>fair graph learning</strong> and
-<strong>signed community detection</strong> were presented at CIKM 2025.
+<strong>signed community detection</strong> were presented at <em>CIKM 2025</em>.
 </div>
 
 </div>
@@ -266,9 +265,14 @@ was presented at WSDM 2026.
 
 <div class="join-text">
 
-We are looking for motivated students interested in
-<strong>graph machine learning, trustworthy AI, GraphRAG & LLMs,
-and recommender systems</strong>.
+We welcome motivated students interested in modeling, mining, and learning from complex and structured data,
+including both fundamental methods and real-world applications.
+
+<p>
+We currently have <strong>multiple openings for M.S. and Ph.D. students</strong>.
+The ability to communicate in Korean is preferred for effective collaboration
+within the lab.
+</p>
 
 </div>
 
