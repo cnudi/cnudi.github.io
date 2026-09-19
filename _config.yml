@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sungsu Lim"
-description              : " "
-repository               : "sungsu-lim/sungsu-lim.github.io"
+title                    : "DILAB"
+description              : "Data Intelligence Lab @ CNU"
+repository               : "cnudi/cnudi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sungsu Lim"
-  avatar           : "/images/sungsu2023.png"
-  bio              : "Associate Professor, Chungnam National University"
-  location         : "Daejeon, South Korea"
-  employer         : "Chungnam National University"
+  name             : "Data Intelligence Lab"
+  avatar           :
+  bio              : "Chungnam National University"
+  location         : "Daejeon, Republic of Korea"
+  employer         : "Department of Computer Science and Engineering, Chungnam National University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=cMQT0a8AAAAJ"
-  email            : "sungsu@cnu.ac.kr"
+  googlescholar    :
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "cnudi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "ssungssu"
+  linkedin         :
   dblp             :
   orcid            :
   pinterest        :
