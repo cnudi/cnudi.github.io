@@ -158,18 +158,13 @@ redirect_from:
 # Data Intelligence Lab
 
 <div class="lab-intro">
-
 <p>
 We are the <strong>Data Intelligence Lab (DILAB)</strong> at the
 Department of Computer Science and Engineering, Chungnam National University.
-</p>
-
-<p>
 Our research focuses on <strong>graph machine learning</strong>,
 <strong>trustworthy AI</strong>, <strong>recommender systems & IR</strong>,
 and <strong>GraphRAG & LLMs</strong>.
 </p>
-
 </div>
 
 
@@ -264,15 +259,10 @@ was presented at <em>WSDM 2026</em>.
 <div class="section-title">📢 Join Us</div>
 
 <div class="join-text">
-
 We welcome motivated students interested in modeling, mining, and learning from complex and structured data,
 including both fundamental methods and real-world applications.
-
-<p>
 We currently have <strong>multiple openings for M.S. and Ph.D. students</strong>.
 To apply, please send a CV with a brief introduction and motivation for joining DILAB.
-</p>
-
 </div>
 
 <div class="openlab-link">
