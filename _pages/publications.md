@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+---
+
 <style>
 /* Major publication sections */
 .pub-section {
