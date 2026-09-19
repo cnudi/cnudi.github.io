@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+---
+
 <style>
 .dilab-author {
   color: #2563a6;
