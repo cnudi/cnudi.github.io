@@ -27,17 +27,69 @@ author_profile: true
 .person-card h3 {
   margin: 0 0 5px;
   font-size: 1.05em;
+  font-weight: 600;
+  color: #234f73;
 }
 
 .person-card p {
   margin: 2px 0;
   font-size: 0.9em;
   line-height: 1.5;
+  color: #555;
 }
 
 .person-card .interests {
-  color: #666;
+  color: #777;
   font-size: 0.85em;
+  font-weight: 400;
+}
+
+.person-card a {
+  color: #2563a6;
+  font-weight: 500;
+}
+
+/* Text-based member lists */
+.member-list {
+  margin: 12px 0 34px;
+  line-height: 1.75;
+  font-size: 0.95em;
+}
+
+.member-name {
+  font-weight: 600;
+  color: #333;
+}
+
+.member-info {
+  color: #666;
+  font-weight: 400;
+}
+
+.member-list a {
+  color: #2563a6;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.member-list a:hover {
+  text-decoration: underline;
+}
+
+.dilab {
+  color: #2563a6;
+  font-weight: 600;
+}
+
+/* Headings */
+.page__content h1 {
+  color: #234f73;
+  font-weight: 600;
+}
+
+.page__content h3 {
+  color: #4a6173;
+  font-weight: 600;
 }
 
 @media (max-width: 600px) {
@@ -118,78 +170,112 @@ author_profile: true
 </div>
 
 
-### Undergraduate Researchers
+### Undergraduate Interns
 
-**Seohyeon Lee** (CNU AI)  
-**Tae Yeong Ha** (CNU CSE)
+<div class="member-list">
+
+<span class="member-name">Seohyeon Lee</span> <span class="member-info">(CNU AI)</span><br>
+<span class="member-name">Tae Yeong Ha</span> <span class="member-info">(CNU CSE)</span>
+
+</div>
 
 
 ### Part-time Students
 
-**Jinyoung Kim** (Ph.D. Candidate) — KISTI  
-**Jae-Wook Seol** (Ph.D. Candidate) — KISTI  
-**Jun-Hyoung Park** (Ph.D. Candidate) — KFE  
-**Jun-Sung Kim** (Ph.D. Student) — KEPCO Research Institute  
-**Semi Min** (M.S.) — KIRD  
-**Aran Cho** (M.S.) — K-water
+<div class="member-list">
+
+<span class="member-name">Jinyoung Kim</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
+<span class="member-name">Jae-Wook Seol</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
+<span class="member-name">Jun-Hyoung Park</span> <span class="member-info">(Ph.D. Candidate) — KFE</span><br>
+<span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPCO Research Institute</span><br>
+<span class="member-name">Semi Min</span> <span class="member-info">(M.S.) — KIRD</span><br>
+<span class="member-name">Aran Cho</span> <span class="member-info">(M.S.) — K-water</span>
+
+</div>
 
 
 # Alumni
 
 ### Ph.D. Alumni
 
-**Hwan Kim** (Feb. 2025) — M.I.Cube, Senior Researcher · [Google Scholar](https://scholar.google.co.kr/citations?user=V2TxDWcAAAAJ)  
-**Soohwan Jeong** (Aug. 2025) — ADD, Senior Researcher · [Google Scholar](https://scholar.google.co.kr/citations?user=piMrsTcAAAAJ)  
-**Jeongseon Kim** (Aug. 2025) — ETRI, Researcher · [Homepage](https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3)  
-**Jongmin Park** (Feb. 2026) — ETRI, Researcher · [Google Scholar](https://scholar.google.co.kr/citations?user=YvsYgPYAAAAJ)  
-**Soyoung Park** (Aug. 2026) — UNIST, InnoCORE Postdoctoral Researcher · [Google Scholar](https://scholar.google.co.kr/citations?user=gVs80sgAAAAJ)
+<div class="member-list">
+
+<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=V2TxDWcAAAAJ">Google Scholar</a><br>
+
+<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=piMrsTcAAAAJ">Google Scholar</a><br>
+
+<span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a><br>
+
+<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
+
+<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoctoral Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=gVs80sgAAAAJ">Google Scholar</a>
+
+</div>
 
 
 ### M.S. Alumni
 
-**Yeong Cheol Kim** (Feb. 2023) — K-AI Lab  
-**Sub Jae Shin** (Feb. 2023) — MedySapiens  
-**Nakhyeon Seong** (Aug. 2023)  
-**Mingyu Choi** (Feb. 2025) — AIBIZ  
-**Hyewon Lee** (Feb. 2026) — KAERI, Post-Master's Researcher · [Google Scholar](https://scholar.google.co.kr/citations?user=1arNStIAAAAJ)
+<div class="member-list">
+
+<span class="member-name">Yeong Cheol Kim</span> <span class="member-info">(Feb. 2023) — K-AI Lab</span><br>
+<span class="member-name">Sub Jae Shin</span> <span class="member-info">(Feb. 2023) — MedySapiens</span><br>
+<span class="member-name">Nakhyeon Seong</span> <span class="member-info">(Aug. 2023)</span><br>
+<span class="member-name">Mingyu Choi</span> <span class="member-info">(Feb. 2025) — AIBIZ</span><br>
+<span class="member-name">Hyewon Lee</span> <span class="member-info">(Feb. 2026) — KAERI, Post-Master's Researcher</span> · <a href="https://scholar.google.co.kr/citations?user=1arNStIAAAAJ">Google Scholar</a>
+
+</div>
 
 
 ### Part-time Alumni
 
-**Hangoo Kang** (Ph.D., Feb. 2025) — KIOST · [Google Scholar](https://scholar.google.co.kr/citations?user=Txl-WmAAAAAJ)  
-**Chanuk Lim** (Ph.D., Feb. 2026) — KISTI · [Google Scholar](https://scholar.google.co.kr/citations?user=9Sv-nVgAAAAJ)  
-**Pilmin Park** (M.S., Feb. 2023) — Ministry of Data and Statistics  
-**Eun-Hyeong Bae** (M.S., Feb. 2024) — Data Scientist  
-**Jiyong Park** (M.S., Feb. 2025) — K-water
+<div class="member-list">
+
+<span class="member-name">Hangoo Kang</span> <span class="member-info">(Ph.D., Feb. 2025) — KIOST</span> · <a href="https://scholar.google.co.kr/citations?user=Txl-WmAAAAAJ">Google Scholar</a><br>
+
+<span class="member-name">Chanuk Lim</span> <span class="member-info">(Ph.D., Feb. 2026) — KISTI</span> · <a href="https://scholar.google.co.kr/citations?user=9Sv-nVgAAAAJ">Google Scholar</a><br>
+
+<span class="member-name">Pilmin Park</span> <span class="member-info">(M.S., Feb. 2023) — Ministry of Data and Statistics</span><br>
+<span class="member-name">Eun-Hyeong Bae</span> <span class="member-info">(M.S., Feb. 2024) — Data Scientist</span><br>
+<span class="member-name">Jiyong Park</span> <span class="member-info">(M.S., Feb. 2025) — K-water</span>
+
+</div>
 
 
-### Undergraduate Interns
+### Former Undergraduate Interns
 
-**Beomjin Kim** (2025–2026, CNU CSE) → KAIST (M.S. in AX)  
-**Jihwan Jeong** (2025–2026, CNU CSE)  
-**Jieun Lim** (2025–2026, CNU CSE)  
-**Minkyung Song** (2024, CNU CSE) → **CNUDI**  
-**Minki Kim** (2024, CNU Math) → VCLab @ CNU  
-**Hyewon Lee** (2023, CNU Math) → **CNUDI**  
-**Mingyu Choi** (2022, CNU CSE) → **CNUDI**  
-**Seunghoon Han** (2022, CNU CSE) → **CNUDI**  
-**Dahyun Kang** (2021–2022, CBNU Info. Stat.) → Industry  
-**Nakhyeon Seong** (2021, CNU CSE) → **CNUDI**  
-**Jongmin Park** (2019–2021, CNU CSE) → **CNUDI**  
-**Seunghyun Jo** (2020, CNU CSE) → Yonsei Univ. (M.S. in AI)  
-**Chaeryeong Ahn** (2020, HYU ERICA SW) → Vector Korea  
-**Hyunjun Lee** (2020, CNU CSE) → NAVER  
-**Chanil Park** (2020, CNU CSE) → Industry  
-**Soohwan Jeong** (2019–2020, CNU CSE) → **CNUDI**  
-**Taehong Moon** (2019–2020, SNU IE) → KAIST (M.S. in AI)  
-**Sangin Lee** (2019, CNU CSE, Young TLO) → Industry  
-**Gyuyoung Sim** (2019, CNU CSE) → Nota AI  
-**Jaehoon Lee** (2019, CNU CSE)  
-**Hayoung Song** (2018–2019, CNU Econ.)  
-**Wonjun Cheon** (2018–2019, CNU CSE) → Industry
+<div class="member-list">
+
+<span class="member-name">Beomjin Kim</span> <span class="member-info">(2025–2026, CNU CSE) → KAIST (M.S. in AX)</span><br>
+<span class="member-name">Jihwan Jeong</span> <span class="member-info">(2025–2026, CNU CSE)</span><br>
+<span class="member-name">Jieun Lim</span> <span class="member-info">(2025–2026, CNU CSE)</span><br>
+<span class="member-name">Minkyung Song</span> <span class="member-info">(2024, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Minki Kim</span> <span class="member-info">(2024, CNU Math) → VCLab @ CNU</span><br>
+<span class="member-name">Hyewon Lee</span> <span class="member-info">(2023, CNU Math) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Mingyu Choi</span> <span class="member-info">(2022, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Seunghoon Han</span> <span class="member-info">(2022, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Dahyun Kang</span> <span class="member-info">(2021–2022, CBNU Info. Stat.) → Industry</span><br>
+<span class="member-name">Nakhyeon Seong</span> <span class="member-info">(2021, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Jongmin Park</span> <span class="member-info">(2019–2021, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Seunghyun Jo</span> <span class="member-info">(2020, CNU CSE) → Yonsei Univ. (M.S. in AI)</span><br>
+<span class="member-name">Chaeryeong Ahn</span> <span class="member-info">(2020, HYU ERICA SW) → Vector Korea</span><br>
+<span class="member-name">Hyunjun Lee</span> <span class="member-info">(2020, CNU CSE) → NAVER</span><br>
+<span class="member-name">Chanil Park</span> <span class="member-info">(2020, CNU CSE) → Industry</span><br>
+<span class="member-name">Soohwan Jeong</span> <span class="member-info">(2019–2020, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
+<span class="member-name">Taehong Moon</span> <span class="member-info">(2019–2020, SNU IE) → KAIST (M.S. in AI)</span><br>
+<span class="member-name">Sangin Lee</span> <span class="member-info">(2019, CNU CSE, Young TLO) → Industry</span><br>
+<span class="member-name">Gyuyoung Sim</span> <span class="member-info">(2019, CNU CSE) → Nota AI</span><br>
+<span class="member-name">Jaehoon Lee</span> <span class="member-info">(2019, CNU CSE)</span><br>
+<span class="member-name">Hayoung Song</span> <span class="member-info">(2018–2019, CNU Econ.)</span><br>
+<span class="member-name">Wonjun Cheon</span> <span class="member-info">(2018–2019, CNU CSE) → Industry</span>
+
+</div>
 
 
-# Visiting Scholars
+# Former Visiting Scholars
 
-**Jin-woo Lee** (2026, Samsung SDS)  
-**Junghoon Kim** (2021–2022, NTU SCSE)
+<div class="member-list">
+
+<span class="member-name">Jin-woo Lee</span> <span class="member-info">(2026, Samsung SDS)</span><br>
+<span class="member-name">Junghoon Kim</span> <span class="member-info">(2021–2022, NTU SCSE)</span>
+
+</div>
