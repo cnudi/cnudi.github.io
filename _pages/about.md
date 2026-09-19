@@ -8,6 +8,28 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.openlab-link {
+  margin: 18px 0 22px;
+  padding: 12px 16px;
+  background: #f4f8fb;
+  border-left: 3px solid #3976a8;
+  border-radius: 4px;
+  font-size: 0.95em;
+}
+
+.openlab-link a {
+  color: #2563a6;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.openlab-link a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
 # Data Intelligence Lab
 
 We are the **Data Intelligence Lab (DILAB)** at the School of Computing and AI, Chungnam National University.
@@ -64,5 +86,9 @@ Seunghoon Han, Hyewon Lee, Soyoung Park, Jong-Ryul Lee, and Sungsu Lim
 # 📢 Join Us
 
 We are looking for motivated students interested in graph machine learning, trustworthy AI, and knowledge-enhanced AI.
+
+<div class="openlab-link">
+📘 <a href="https://drive.google.com/drive/folders/1pWMrR6roJSVIM6VxuWWHNx3PQeg9yfk0?usp=sharing">DILAB 2026 Open Lab Materials →</a>
+</div>
 
 For inquiries, please contact **Prof. Sungsu Lim** at [sungsu@cnu.ac.kr](mailto:sungsu@cnu.ac.kr).
