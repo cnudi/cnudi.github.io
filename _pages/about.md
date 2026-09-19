@@ -270,8 +270,7 @@ including both fundamental methods and real-world applications.
 
 <p>
 We currently have <strong>multiple openings for M.S. and Ph.D. students</strong>.
-The ability to communicate in Korean is preferred for effective collaboration
-within the lab.
+To apply, please send a CV with a brief introduction and motivation for joining DILAB.
 </p>
 
 </div>
@@ -284,8 +283,9 @@ DILAB 2026 Open Lab Materials →
 
 <div class="join-text">
 
-For inquiries, please contact
-<strong>Prof. Sungsu Lim</strong> at
-<a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a>.
+We are always open to research collaborations.
+Feel free to reach out to
+<a href="https://sungsu-lim.github.io/"><strong>Prof. Sungsu Lim</strong></a>
+at <a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a>.
 
 </div>
