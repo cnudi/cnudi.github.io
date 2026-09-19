@@ -175,14 +175,14 @@ author_profile: true
 <div class="people-grid">
 
 <div class="person-card">
-<img src="/images/dilab-favicon.jpg" alt="Seohyeon Lee">
+<img src="/images/dilab-favicon.png" alt="Seohyeon Lee">
 <h3>Seohyeon Lee</h3>
 <p>Undergraduate Researcher</p>
 <p class="interests">CNU AI</p>
 </div>
 
 <div class="person-card">
-<img src="/images/dilab-favicon.jpg" alt="Tae Yeong Ha">
+<img src="/images/dilab-favicon.png" alt="Tae Yeong Ha">
 <h3>Tae Yeong Ha</h3>
 <p>Undergraduate Researcher</p>
 <p class="interests">CNU CSE</p>
