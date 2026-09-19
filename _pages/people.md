@@ -187,7 +187,7 @@ author_profile: true
 <span class="member-name">Jinyoung Kim</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
 <span class="member-name">Jae-Wook Seol</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
 <span class="member-name">Jun-Hyoung Park</span> <span class="member-info">(Ph.D. Candidate) — KFE</span><br>
-<span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPCO Research Institute</span><br>
+<span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPRI</span><br>
 <span class="member-name">Semi Min</span> <span class="member-info">(M.S.) — KIRD</span><br>
 <span class="member-name">Aran Cho</span> <span class="member-info">(M.S.) — K-water</span>
 
@@ -208,7 +208,7 @@ author_profile: true
 
 <span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
 
-<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoctoral Researcher</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
+<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
 
 </div>
 
