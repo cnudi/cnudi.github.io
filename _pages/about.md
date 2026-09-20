@@ -77,7 +77,7 @@ redirect_from:
 }
 
 .news-item {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.65rem;
   line-height: 1.55;
   color: #4d555c;
 }
@@ -219,7 +219,7 @@ augmentation for large language models.
 
 <div class="news-item">
 <span class="news-date">2026.08</span>
-🎉 Our work on <strong>few-shot node classification on text-attributed graphs</strong>
+🎉 Our work on <strong>few-shot learning on text-attributed graphs</strong>
 was accepted to <em>CIKM 2026</em>.
 </div>
 
@@ -278,7 +278,7 @@ was presented at <em>PAKDD 2025</em>.
 
 <div class="news-item">
 <span class="news-date">2025.03</span>
-🎉 Our work on <strong>GraphRAG for node classification</strong>
+🎉 Our work on <strong>in-context learning in text-attributed graphs</strong>
 was presented at <em>EDBT 2025</em>.
 </div>
 
@@ -294,8 +294,8 @@ and <strong>Mingyu</strong> on completing his M.S.!
 <div class="section-title">📢 Join Us</div>
 
 <div class="join-text">
-We welcome motivated students interested in modeling, mining, and learning from complex and structured data,
-including both fundamental methods and real-world applications.
+We welcome motivated students interested in learning from complex and structured data,
+from fundamental methods to real-world applications.
 We currently have <strong>multiple openings for M.S. and Ph.D. students</strong>.
 To apply, please send a CV with a brief introduction and motivation for joining DILAB.
 </div>
@@ -307,10 +307,7 @@ DILAB 2026 Open Lab Materials →
 </div>
 
 <div class="join-text">
-
-We are always open to research collaborations.
-Feel free to reach out to
+For research collaborations, feel free to reach out to
 <a href="https://sungsu-lim.github.io/"><strong>Prof. Sungsu Lim</strong></a>
 at <a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a>.
-
 </div>
