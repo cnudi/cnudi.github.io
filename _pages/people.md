@@ -189,14 +189,12 @@ author_profile: true
 <div class="person-card">
 <img src="/images/dilab-favicon.png" alt="Seohyeon Lee">
 <h3>Seohyeon Lee</h3>
-<p>Undergraduate Researcher</p>
 <p class="affiliation">CNU AI</p>
 </div>
 
 <div class="person-card">
 <img src="/images/dilab-favicon.png" alt="Tae Yeong Ha">
 <h3>Tae Yeong Ha</h3>
-<p>Undergraduate Researcher</p>
 <p class="affiliation">CNU CSE</p>
 </div>
 
@@ -219,7 +217,7 @@ author_profile: true
 
 # Alumni
 
-### Ph.D. Alumni
+### Ph.D. Graduates
 
 <div class="member-list">
 
@@ -236,7 +234,7 @@ author_profile: true
 </div>
 
 
-### M.S. Alumni
+### M.S. Graduates
 
 <div class="member-list">
 
@@ -249,7 +247,7 @@ author_profile: true
 </div>
 
 
-### Part-time Alumni
+### Part-time Graduates
 
 <div class="member-list">
 
