@@ -81,6 +81,14 @@ author_profile: true
   font-weight: 400;
 }
 
+.lab-rep {
+  color: #3976a8;
+  font-weight: 600;
+  background: #eef5fa;
+  padding: 2px 7px;
+  border-radius: 10px;
+}
+
 /* Headings */
 .page__content h1 {
   color: #234f73;
@@ -99,14 +107,6 @@ author_profile: true
 }
 </style>
 
-.lab-rep {
-  color: #3976a8;
-  font-weight: 600;
-  background: #eef5fa;
-  padding: 2px 7px;
-  border-radius: 10px;
-}
-
 # Professor
 
 <div class="people-grid">
@@ -115,7 +115,7 @@ author_profile: true
   <img src="/images/people/sungsu-lim.jpg" alt="Sungsu Lim">
   <h3>Sungsu Lim</h3>
   <p>Associate Professor</p>
-  <p>School of Computing and AI</p>
+  <p class="affiliation">CNU CSE</p>
   <p>
     <a href="https://sungsu-lim.github.io/">Homepage</a> ·
     <a href="https://scholar.google.com/citations?user=cMQT0a8AAAAJ">Google Scholar</a> ·
@@ -136,6 +136,7 @@ author_profile: true
   <img src="/images/people/seunghoon-han.jpg" alt="Seunghoon Han">
   <h3>Seunghoon Han</h3>
   <p><span class="lab-rep">Lab Representative</span></p>
+  <p class="affiliation">CNU CSE</p>
   <p class="interests">Efficient AI, Multimodal AI, GNNs</p>
   <p>
     <a href="https://sites.google.com/view/seunghoon-han">Homepage</a> ·
@@ -146,6 +147,7 @@ author_profile: true
 <div class="person-card">
   <img src="/images/people/kwanhee-lee.jpg" alt="Kwanhee Lee">
   <h3>Kwanhee Lee</h3>
+  <p class="affiliation">CNU CSE</p>
   <p class="interests">Anomaly Detection, GNNs</p>
 </div>
 
@@ -159,6 +161,7 @@ author_profile: true
 <div class="person-card">
   <img src="/images/people/minkyung-song.jpg" alt="Minkyung Song">
   <h3>Minkyung Song</h3>
+  <p class="affiliation">CNU CSE</p>
   <p class="interests">Recommender Systems, LLMs, Agentic AI</p>
   <p>
     <a href="https://smingaeng.github.io/">Homepage</a> ·
@@ -169,6 +172,7 @@ author_profile: true
 <div class="person-card">
   <img src="/images/people/junghyun-oh.jpg" alt="Junghyun Oh">
   <h3>Junghyun Oh</h3>
+  <p class="affiliation">CNU CSE</p>
   <p class="interests">GraphRAG, LLMs, Information Retrieval</p>
   <p>
     <a href="https://scholar.google.com/citations?user=sHkiTMQAAAAJ">Google Scholar</a>
@@ -186,14 +190,14 @@ author_profile: true
 <img src="/images/dilab-favicon.png" alt="Seohyeon Lee">
 <h3>Seohyeon Lee</h3>
 <p>Undergraduate Researcher</p>
-<p class="interests">CNU AI</p>
+<p class="affiliation">CNU AI</p>
 </div>
 
 <div class="person-card">
 <img src="/images/dilab-favicon.png" alt="Tae Yeong Ha">
 <h3>Tae Yeong Ha</h3>
 <p>Undergraduate Researcher</p>
-<p class="interests">CNU CSE</p>
+<p class="affiliation">CNU CSE</p>
 </div>
 
 </div>
