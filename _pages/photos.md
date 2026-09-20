@@ -98,3 +98,36 @@ author_profile: true
   <img src="/images/photos/cikm-2025-2.jpg" alt="CIKM 2025">
   <img src="/images/photos/cikm-2025-3.jpg" alt="CIKM 2025">
 </div>
+
+
+# PAKDD 2025
+
+<p class="photo-location">Sydney, Australia · June 2025</p>
+
+<div class="photo-grid">
+  <img src="/images/photos/pakdd-2025-1.jpg" alt="PAKDD 2025">
+  <img src="/images/photos/pakdd-2025-2.jpg" alt="PAKDD 2025">
+  <img src="/images/photos/pakdd-2025-3.jpg" alt="PAKDD 2025">
+</div>
+
+
+# ICDM 2024
+
+<p class="photo-location">Abu Dhabi, UAE · December 2024</p>
+
+<div class="photo-grid">
+  <img src="/images/photos/icdm-2024-1.jpg" alt="ICDM 2024">
+  <img src="/images/photos/icdm-2024-2.jpg" alt="ICDM 2024">
+  <img src="/images/photos/icdm-2024-3.jpg" alt="ICDM 2024">
+</div>
+
+
+# ICCV 2023
+
+<p class="photo-location">Paris, France · October 2023</p>
+
+<div class="photo-grid">
+  <img src="/images/photos/iccv-2023-1.jpg" alt="ICCV 2023">
+  <img src="/images/photos/iccv-2023-2.jpg" alt="ICCV 2023">
+  <img src="/images/photos/iccv-2023-3.jpg" alt="ICCV 2023">
+</div>
