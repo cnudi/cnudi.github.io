@@ -224,6 +224,11 @@ was accepted to <em>CIKM 2026</em>.
 </div>
 
 <div class="news-item">
+<span class="news-date">2026.08</span>
+🎓 Congratulations to <strong>Soyoung</strong> on completing her Ph.D.!
+</div>
+
+<div class="news-item">
 <span class="news-date">2026.07</span>
 🎉 Our work on <strong>uncertainty quantification for GNNs</strong>
 was presented at <em>ICML 2026</em>.
@@ -248,9 +253,39 @@ was presented at <em>WSDM 2026</em>.
 </div>
 
 <div class="news-item">
+<span class="news-date">2026.02</span>
+🎓 Congratulations to <strong>Jongmin</strong> on completing his Ph.D.
+and <strong>Hyewon</strong> on completing her M.S.!
+</div>
+
+<div class="news-item">
 <span class="news-date">2025.11</span>
 🎉 Two papers on <strong>fair graph learning</strong> and
 <strong>signed community detection</strong> were presented at <em>CIKM 2025</em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.08</span>
+🎓 Congratulations to <strong>Soohwan</strong> and <strong>Jeongseon</strong>
+on completing their Ph.D. degrees!
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.06</span>
+🎉 Our work on <strong>zero-shot industrial anomaly segmentation</strong>
+was presented at <em>PAKDD 2025</em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.03</span>
+🎉 Our work on <strong>GraphRAG for node classification</strong>
+was presented at <em>EDBT 2025</em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.02</span>
+🎓 Congratulations to <strong>Hwan</strong> on completing his Ph.D.
+and <strong>Mingyu</strong> on completing his M.S.!
 </div>
 
 </div>
