@@ -45,47 +45,14 @@ author_profile: true
 </style>
 
 
-# SIGIR 2026
-
-<p class="photo-location">Melbourne, Australia · July 2026</p>
-
-<div class="photo-grid">
-  <img src="/images/photos/sigir-2026-1.jpg" alt="SIGIR 2026">
-  <img src="/images/photos/sigir-2026-2.jpg" alt="SIGIR 2026">
-  <img src="/images/photos/sigir-2026-3.jpg" alt="SIGIR 2026">
-</div>
-
-
-# ICML 2026
-
-<p class="photo-location">Seoul, Korea · July 2026</p>
-
-<div class="photo-grid">
-  <img src="/images/photos/icml-2026-1.jpg" alt="ICML 2026">
-  <img src="/images/photos/icml-2026-2.jpg" alt="ICML 2026">
-  <img src="/images/photos/icml-2026-3.jpg" alt="ICML 2026">
-</div>
-
-
-# AAAI 2026
-
-<p class="photo-location">Singapore · January 2026</p>
-
-<div class="photo-grid">
-  <img src="/images/photos/aaai-2026-1.jpg" alt="AAAI 2026">
-  <img src="/images/photos/aaai-2026-2.jpg" alt="AAAI 2026">
-  <img src="/images/photos/aaai-2026-3.jpg" alt="AAAI 2026">
-</div>
-
-
 # WACV 2026
 
-<p class="photo-location">Tucson, Arizona, USA · February 2025</p>
+<p class="photo-location">Tucson, Arizona, USA · March 2026</p>
 
 <div class="photo-grid">
-  <img src="/images/photos/wacv-2025-1.jpg" alt="WACV 2025">
-  <img src="/images/photos/wacv-2025-2.jpg" alt="WACV 2025">
-  <img src="/images/photos/wacv-2025-3.jpg" alt="WACV 2025">
+  <img src="/images/photos/wacv-2026-1.jpg" alt="WACV 2026">
+  <img src="/images/photos/wacv-2026-2.jpg" alt="WACV 2026">
+  <img src="/images/photos/wacv-2026-3.jpg" alt="WACV 2026">
 </div>
 
 
