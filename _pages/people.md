@@ -99,6 +99,13 @@ author_profile: true
 }
 </style>
 
+.lab-rep {
+  color: #3976a8;
+  font-weight: 600;
+  background: #eef5fa;
+  padding: 2px 7px;
+  border-radius: 10px;
+}
 
 # Professor
 
@@ -128,6 +135,7 @@ author_profile: true
 <div class="person-card">
   <img src="/images/people/seunghoon-han.jpg" alt="Seunghoon Han">
   <h3>Seunghoon Han</h3>
+  <p><span class="lab-rep">Lab Representative</span></p>
   <p class="interests">Efficient AI, Multimodal AI, GNNs</p>
   <p>
     <a href="https://sites.google.com/view/seunghoon-han">Homepage</a> ·
@@ -219,7 +227,7 @@ author_profile: true
 
 <span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
 
-<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — UNIST, InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
+<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
 
 </div>
 
