@@ -31,6 +31,33 @@ author_profile: true
   font-size: 0.9em;
 }
 
+.photo-intro {
+  color: #666;
+  font-size: 0.94em;
+  margin: 0 0 2rem;
+}
+
+.photo-section {
+  margin: 2.7rem 0 0.45rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid #dce8f2;
+  color: #234f73;
+  font-size: 1.55rem;
+  line-height: 1.2;
+  font-weight: 650;
+}
+
+.photo-section:first-of-type {
+  margin-top: 2rem;
+}
+
+.photo-meta {
+  color: #667785;
+  font-size: 0.92rem;
+  font-style: italic;
+  margin: 0 0 1rem;
+}
+
 @media (max-width: 700px) {
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
@@ -45,9 +72,14 @@ author_profile: true
 </style>
 
 
-# WACV 2026
+<p class="photo-intro">
+A collection of moments from conferences and activities with DILAB members.
+</p>
 
-<p class="photo-location">Tucson, Arizona, USA · March 2026</p>
+
+<div class="photo-section">WACV 2026</div>
+
+<div class="photo-meta">Tucson, Arizona, USA · March 2026</div>
 
 <div class="photo-grid">
   <img src="/images/photos/wacv-2026-1.jpg" alt="WACV 2026">
@@ -56,9 +88,9 @@ author_profile: true
 </div>
 
 
-# CIKM 2025
+<div class="photo-section">CIKM 2025</div>
 
-<p class="photo-location">Seoul, Korea · November 2025</p>
+<div class="photo-meta">Seoul, Korea · November 2025</div>
 
 <div class="photo-grid">
   <img src="/images/photos/cikm-2025-1.jpg" alt="CIKM 2025">
@@ -67,9 +99,9 @@ author_profile: true
 </div>
 
 
-# PAKDD 2025
+<div class="photo-section">PAKDD 2025</div>
 
-<p class="photo-location">Sydney, Australia · June 2025</p>
+<div class="photo-meta">Sydney, Australia · June 2025</div>
 
 <div class="photo-grid">
   <img src="/images/photos/pakdd-2025-1.jpg" alt="PAKDD 2025">
@@ -78,9 +110,9 @@ author_profile: true
 </div>
 
 
-# ICDM 2024
+<div class="photo-section">ICDM 2024</div>
 
-<p class="photo-location">Abu Dhabi, UAE · December 2024</p>
+<div class="photo-meta">Abu Dhabi, UAE · December 2024</div>
 
 <div class="photo-grid">
   <img src="/images/photos/icdm-2024-1.jpg" alt="ICDM 2024">
@@ -89,9 +121,9 @@ author_profile: true
 </div>
 
 
-# ICCV 2023
+<div class="photo-section">ICCV 2023</div>
 
-<p class="photo-location">Paris, France · October 2023</p>
+<div class="photo-meta">Paris, France · October 2023</div>
 
 <div class="photo-grid">
   <img src="/images/photos/iccv-2023-1.jpg" alt="ICCV 2023">
