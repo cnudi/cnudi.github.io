@@ -88,6 +88,25 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">AAAI 2026</div>
+
+<div class="photo-meta">Singapore · January 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/aaai-2026-1.jpg" alt="AAAI 2026">
+  <img src="/images/photos/aaai-2026-2.jpg" alt="AAAI 2026">
+</div>
+
+
+<div class="photo-section">KSC 2025</div>
+
+<div class="photo-meta">Yeosu, Korea · December 2025</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2025-1.jpg" alt="KSC 2025">
+</div>
+
+
 <div class="photo-section">CIKM 2025</div>
 
 <div class="photo-meta">Seoul, Korea · November 2025</div>
