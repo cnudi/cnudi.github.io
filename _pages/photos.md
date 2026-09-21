@@ -88,6 +88,15 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">UNIS-CNU Workshop 2026</div>
+
+<div class="photo-meta">Ulsan, Korea · February 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/unist-cnu-2026-01.jpg.jpg" alt="UNIST-CNU 2026">
+</div>
+
+
 <div class="photo-section">AAAI 2026</div>
 
 <div class="photo-meta">Singapore · January 2026</div>
@@ -103,7 +112,7 @@ A collection of moments from conferences and activities with DILAB members.
 <div class="photo-meta">Yeosu, Korea · December 2025</div>
 
 <div class="photo-grid">
-  <img src="/images/photos/ksc-2025-1.jpg" alt="KSC 2025">
+  <img src="/images/photos/ksc-2025-1.png" alt="KSC 2025">
 </div>
 
 
