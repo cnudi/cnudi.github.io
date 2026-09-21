@@ -352,7 +352,7 @@ and <strong>Hyewon</strong> on completing her M.S.!
 <div class="news-item">
 <span class="news-date">2025.11</span>
 🏆 DILAB placed <strong>4th and received a Special Award</strong>
-in the <em><a href="https://anacnu.kr/board/cnunotice/324">CIKM 2025 AnalytiCup Alibaba Challenge</a></em>.
+in the <em><a href="https://alibaba-international-cikm2025.github.io/">CIKM 2025 AnalytiCup Alibaba Challenge</a></em>.
 </div>
 
 <div class="news-item">
