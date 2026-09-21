@@ -187,15 +187,17 @@ author_profile: true
 <div class="people-grid">
 
 <div class="person-card">
-<img src="/images/dilab-favicon.png" alt="Seohyeon Lee">
+<img src="/images/seohyeon-lee.jpg" alt="Seohyeon Lee">
 <h3>Seohyeon Lee</h3>
 <p class="affiliation">CNU AI</p>
+<p class="interests">GNNs, GraphRAG, LLMs</p>
 </div>
 
 <div class="person-card">
-<img src="/images/dilab-favicon.png" alt="Tae Yeong Ha">
+<img src="/images/tae-yeong-ha.jpg" alt="Tae Yeong Ha">
 <h3>Tae Yeong Ha</h3>
 <p class="affiliation">CNU CSE</p>
+<p class="interests">Graph ML, GraphRAG, GNNs</p>
 </div>
 
 </div>
