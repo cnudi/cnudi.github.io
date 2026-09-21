@@ -183,7 +183,7 @@ author_profile: true
 </div>
 
 
-# Undergraduate Researchers
+### Undergraduate Researchers
 
 <div class="people-grid">
 
