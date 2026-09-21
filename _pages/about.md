@@ -49,10 +49,32 @@ redirect_from:
 }
 
 .research-card {
-  padding: 18px 20px;
+  position: relative;
+  overflow: hidden;
+  padding: 20px 20px 18px;
   background: #f7fafc;
   border: 1px solid #e5edf3;
-  border-radius: 8px;
+  border-radius: 10px;
+  transition: transform 0.18s ease,
+              box-shadow 0.18s ease,
+              border-color 0.18s ease;
+}
+
+.research-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: #3976a8;
+  opacity: 0.75;
+}
+
+.research-card:hover {
+  transform: translateY(-2px);
+  border-color: #d4e3ee;
+  box-shadow: 0 7px 18px rgba(35, 79, 115, 0.09);
 }
 
 .research-card h3 {
@@ -180,15 +202,50 @@ redirect_from:
   }
 }
 
+.lab-header {
+  margin: 0.4rem 0 1.1rem;
+}
+
+.lab-kicker {
+  margin-bottom: 0.35rem;
+  color: #3976a8;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.lab-header h1 {
+  margin: 0 0 0.55rem;
+  color: #234f73;
+  font-size: 2.15em;
+  font-weight: 650;
+  letter-spacing: -0.02em;
+}
+
+.lab-header p {
+  max-width: 720px;
+  margin: 0;
+  color: #59636b;
+  font-size: 1.05em;
+  line-height: 1.65;
+}
+
 </style>
 
 
-# Data Intelligence Lab
+<div class="lab-header">
+  <div class="lab-kicker">CHUNGNAM NATIONAL UNIVERSITY</div>
+  <h1>Data Intelligence Lab</h1>
+  <p>
+    Learning from <strong>complex, structured, and interconnected data</strong>
+    for intelligent and trustworthy AI.
+  </p>
+</div>
 
 <div class="lab-intro">
 <p>
 We are the <strong>Data Intelligence Lab (DILAB)</strong> at the
-Department of Computer Science and Engineering, Chungnam National University, Korea.
+Department of Computer Science and Engineering, Chungnam National University, Korea 🇰🇷.
 Our research focuses on <strong>graph machine learning</strong>,
 <strong>trustworthy AI</strong>, <strong>recommender systems & IR</strong>,
 and <strong>GraphRAG & LLMs</strong>.
