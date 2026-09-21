@@ -4,80 +4,9 @@ title: "Publications"
 author_profile: true
 ---
 
-<style>
-/* Major publication sections */
-.pub-section {
-  margin-top: 2.6em;
-  margin-bottom: 1.25em;
-  padding-bottom: 0.42em;
-  border-bottom: 2px solid #d7e5f0;
-  color: #234f73;
-  font-size: 1.55em;
-  font-weight: 700;
-  line-height: 1.25;
-}
+<style> /* Major publication sections */ .pub-section { margin-top: 2.6em; margin-bottom: 1.25em; padding-bottom: 0.42em; border-bottom: 2px solid #d7e5f0; color: #234f73; font-size: 1.55em; font-weight: 700; line-height: 1.25; } /* Individual publication */ .pub-item { margin: 0 0 1.65em 0; } .pub-title { margin: 0 0 0.55em 0; color: #20252a; font-size: 1.02em; font-weight: 650; line-height: 1.5; } .pub-authors { margin: 0 0 0.65em 0; color: #505a63; font-size: 0.94em; line-height: 1.55; } .dilab-author { color: #2563a6; font-weight: 600; } .pub-venue { margin: 0; color: #687b89; font-size: 0.92em; font-style: italic; line-height: 1.5; } .journal-metric { margin-left: 0.45em; color: #8a969e; font-size: 0.82em; font-style: normal; font-weight: 500; white-space: nowrap; } .pub-note { margin: 0 0 0.55em 0; color: #777; font-size: 0.90em; line-height: 1.55; } .pub-note a { color: #2563a6; text-decoration: none; } .pub-note a:hover { text-decoration: underline; } </style>
 
-/* Individual publication */
-.pub-item {
-  margin: 0 0 1.65em 0;
-}
-
-.pub-title {
-  margin: 0 0 0.55em 0;
-  color: #20252a;
-  font-size: 1.02em;
-  font-weight: 650;
-  line-height: 1.5;
-}
-
-.pub-authors {
-  margin: 0 0 0.65em 0;
-  color: #505a63;
-  font-size: 0.94em;
-  line-height: 1.55;
-}
-
-.dilab-author {
-  color: #2563a6;
-  font-weight: 600;
-}
-
-.pub-venue {
-  margin: 0;
-  color: #687b89;
-  font-size: 0.92em;
-  font-style: italic;
-  line-height: 1.5;
-}
-
-.journal-metric {
-  margin-left: 0.45em;
-  color: #8a969e;
-  font-size: 0.82em;
-  font-style: normal;
-  font-weight: 500;
-  white-space: nowrap;
-}
-
-.pub-note {
-  margin: 0 0 0.55em 0;
-  color: #777;
-  font-size: 0.90em;
-  line-height: 1.55;
-}
-
-.pub-note a {
-  color: #2563a6;
-  text-decoration: none;
-}
-
-.pub-note a:hover {
-  text-decoration: underline;
-}
-</style>
-
-<p class="pub-note">We aim to conduct meaningful research in data intelligence and share our work at leading venues.</p>
-<p class="pub-note">* Corresponding author · † Equal contribution</p>
+<p class="pub-note">We aim to conduct meaningful research in data intelligence and share our work at leading venues.</p> <p class="pub-note">* Corresponding author · † Equal contribution</p>
 
 <div class="pub-section">Preprints</div>
 
@@ -103,7 +32,7 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[J] TriBaL: Graph-Based Denoising of LLM-ExtractedSigned Knowledge Graphs via Triangle–Balance Learning</div>
+<div class="pub-title">[J] TriBaL: Graph-Based Denoising of LLM-Extracted Signed Knowledge Graphs via Triangle–Balance Learning</div>
 
 <div class="pub-authors"><span class="dilab-author">Jeongseon Kim</span>, Sanghun Jeon, Hyunjin Choo, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
@@ -1017,194 +946,67 @@ Also presented as a poster at NVIDIA GTC 2023
 
 <div class="pub-section">Domestic Publications</div>
 
-<div class="pub-item">
-<div class="pub-title">[K32] ACE-RAG: Is Broader Retrieval Always Better for GraphRAG? <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">오정현</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K32] ACE-RAG: Is Broader Retrieval Always Better for GraphRAG? <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="dilab-author">오정현</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K31] MOSAIC: Graph Recommendation via Mixture-of-Experts with LLM-based Community-Aware Intent and Conformity <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K31] MOSAIC: Graph Recommendation via Mixture-of-Experts with LLM-based Community-Aware Intent and Conformity <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K30] Node-Gated Multi-level Fairness for Graph Neural Networks <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K30] Node-Gated Multi-level Fairness for Graph Neural Networks <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K29] 대규모 언어 모델을 활용한 멀티 뷰 학습 기반의 추천 시스템 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2025/proceedings.html">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">KDBC 2025 · November 2025 · 🏆 우수논문상 동상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K29] 대규모 언어 모델을 활용한 멀티 뷰 학습 기반의 추천 시스템 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2025/proceedings.html">[link]</a></div> <div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">KDBC 2025 · November 2025 · 🏆 우수논문상 동상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K28] 계층 인지 GraphRAG를 위한 하이퍼볼릭 리랭킹 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2025/proceedings.html">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">오정현</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">KDBC 2025 · Work-in-Progress · November 2025</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K28] 계층 인지 GraphRAG를 위한 하이퍼볼릭 리랭킹 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2025/proceedings.html">[link]</a></div> <div class="pub-authors"><span class="dilab-author">오정현</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">KDBC 2025 · Work-in-Progress · November 2025</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K27] 이종 그래프 기반 구조적 정보 활용과 문맥적 정렬을 통한 다중 레이블 텍스트 분류 <a class="pub-link" href="https://koreascience.kr/article/CFKO202533836037084.pub">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">박종민</span>, 김준영*, 윤수식*, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">HCLT 2025 · October 2025</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K27] 이종 그래프 기반 구조적 정보 활용과 문맥적 정렬을 통한 다중 레이블 텍스트 분류 <a class="pub-link" href="https://koreascience.kr/article/CFKO202533836037084.pub">[link]</a></div> <div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">박종민</span>, 김준영*, 윤수식*, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">HCLT 2025 · October 2025</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K26] 비볼록 벌점화 분위수 회귀를 통한 그래프 신경망 신뢰성 향상 <a class="pub-link" href="https://www-dbpia-co-kr.libra.cnu.ac.kr/journal/articleDetail?nodeId=NODE12041865">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2024 · December 2024</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K26] 비볼록 벌점화 분위수 회귀를 통한 그래프 신경망 신뢰성 향상 <a class="pub-link" href="https://www-dbpia-co-kr.libra.cnu.ac.kr/journal/articleDetail?nodeId=NODE12041865">[link]</a></div> <div class="pub-authors"><span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2024 · December 2024</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K25] 도로 환경에서 LLM 기반 제로샷 이상 분할을 위한 방법론 <a class="pub-link" href="https://www-dbpia-co-kr.libra.cnu.ac.kr/journal/articleDetail?nodeId=NODE12041854">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">이혜원</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">송민경</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2024 · December 2024</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K25] 도로 환경에서 LLM 기반 제로샷 이상 분할을 위한 방법론 <a class="pub-link" href="https://www-dbpia-co-kr.libra.cnu.ac.kr/journal/articleDetail?nodeId=NODE12041854">[link]</a></div> <div class="pub-authors"><span class="dilab-author">이혜원</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">송민경</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2024 · December 2024</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K24] AI 기반 스마트정수장 사이버위협 탐지 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12000903">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">박지용</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">제56회 한국정보통신학회 추계종합학술대회 · October 2024</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K24] AI 기반 스마트정수장 사이버위협 탐지 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12000903">[link]</a></div> <div class="pub-authors"><span class="dilab-author">박지용</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">제56회 한국정보통신학회 추계종합학술대회 · October 2024</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K23] Graph-Mamba 기반 POI 추천 시스템 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949238">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">최민규</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">제5회 한국인공지능학술대회 · September 2024 · 🏆 우수논문상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K23] Graph-Mamba 기반 POI 추천 시스템 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949238">[link]</a></div> <div class="pub-authors"><span class="dilab-author">최민규</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">제5회 한국인공지능학술대회 · September 2024 · 🏆 우수논문상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K22] 교통 예측을 위한 기계학습 기술 연구 동향 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11733660">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">정보과학회지 · March 2024 · 데이터 인텔리전스 특집호</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K22] 교통 예측을 위한 기계학습 기술 연구 동향 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11733660">[link]</a></div> <div class="pub-authors"><span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">정보과학회지 · March 2024 · 데이터 인텔리전스 특집호</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K21] 준지도 대조 학습 기법을 활용한 그래프 이상 탐지 <a class="pub-link" href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003029453">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">김환</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">데이타베이스연구 · December 2023 · KCI</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K21] 준지도 대조 학습 기법을 활용한 그래프 이상 탐지 <a class="pub-link" href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003029453">[link]</a></div> <div class="pub-authors"><span class="dilab-author">김환</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">데이타베이스연구 · December 2023 · KCI</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K20] 그래프 딥러닝 기반 교통 예측을 위한 데이터 결측치 대치 성능 비교 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705018">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">이혜원</span>, 김성수, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2023 · December 2023</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K20] 그래프 딥러닝 기반 교통 예측을 위한 데이터 결측치 대치 성능 비교 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705018">[link]</a></div> <div class="pub-authors"><span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">이혜원</span>, 김성수, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2023 · December 2023</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K19] 사전학습 언어 모델을 이용한 법인세 조세심판 결정 예측 모델 연구 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2023/proceedings.html">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">배은형</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KDBC 2023 · November 2023</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K19] 사전학습 언어 모델을 이용한 법인세 조세심판 결정 예측 모델 연구 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2023/proceedings.html">[link]</a></div> <div class="pub-authors"><span class="dilab-author">배은형</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KDBC 2023 · November 2023</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K18] 클래스 불균형 해결을 위한 Diffusion Model 기반 Oversampling <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488105">[link]</a></div>
-<div class="pub-authors">장건희, 조원근, <span class="dilab-author">임성수</span>, 김동일</div>
-<div class="pub-venue">KCC 2023 · June 2023</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K18] 클래스 불균형 해결을 위한 Diffusion Model 기반 Oversampling <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488105">[link]</a></div> <div class="pub-authors">장건희, 조원근, <span class="dilab-author">임성수</span>, 김동일</div> <div class="pub-venue">KCC 2023 · June 2023</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K17] 응집성을 가지는 서브그래프 식별 기술의 최신 연구 동향 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11438469">[link]</a></div>
-<div class="pub-authors">김다희, 김정훈, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">전자공학회지 · June 2023 · 인공지능과 데이터사이언스 기술을 활용한 ICT 융합 특집호</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K17] 응집성을 가지는 서브그래프 식별 기술의 최신 연구 동향 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11438469">[link]</a></div> <div class="pub-authors">김다희, 김정훈, <span class="dilab-author">임성수</span></div> <div class="pub-venue">전자공학회지 · June 2023 · 인공지능과 데이터사이언스 기술을 활용한 ICT 융합 특집호</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K16] 도시 네트워크의 교통 데이터 개선을 통한 그래프 딥러닝 모델 성능 분석 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224421">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">최민규</span>, <span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2022 · December 2022</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K16] 도시 네트워크의 교통 데이터 개선을 통한 그래프 딥러닝 모델 성능 분석 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224421">[link]</a></div> <div class="pub-authors"><span class="dilab-author">최민규</span>, <span class="dilab-author">한승훈</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2022 · December 2022</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K15] 감시 영상을 활용한 이동 선박의 이상 탐지 <a class="pub-link" href="https://www.kics.or.kr/html/?pmode=inputList&smode=ajax&fn=InputDownFile&fileSeq=19091">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">성낙현</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">CEIC 2022 · December 2022</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K15] 감시 영상을 활용한 이동 선박의 이상 탐지 <a class="pub-link" href="https://www.kics.or.kr/html/?pmode=inputList&smode=ajax&fn=InputDownFile&fileSeq=19091">[link]</a></div> <div class="pub-authors"><span class="dilab-author">성낙현</span>, <span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">CEIC 2022 · December 2022</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K14] 문자 기반 유사도 알고리즘을 활용한 비정제 도로명주소 필드 전처리 프레임워크 연구 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2022/proceedings.html">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">박필민</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KDBC 2022 · November 2022</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K14] 문자 기반 유사도 알고리즘을 활용한 비정제 도로명주소 필드 전처리 프레임워크 연구 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2022/proceedings.html">[link]</a></div> <div class="pub-authors"><span class="dilab-author">박필민</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KDBC 2022 · November 2022</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K13] PageRank 알고리즘을 활용한 미생물 네트워크에서의 간선 중요도 추정 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113255">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">신섭재</span>, 심동환, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KCC 2022 · June 2022</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K13] PageRank 알고리즘을 활용한 미생물 네트워크에서의 간선 중요도 추정 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113255">[link]</a></div> <div class="pub-authors"><span class="dilab-author">신섭재</span>, 심동환, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KCC 2022 · June 2022</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K12] 소셜 네트워크의 참여도에 기반한 핵심 사용자의 동적 식별 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035624">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">김정선</span>, 김정훈, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2021 · December 2021 · 🏆 우수발표논문상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K12] 소셜 네트워크의 참여도에 기반한 핵심 사용자의 동적 식별 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035624">[link]</a></div> <div class="pub-authors"><span class="dilab-author">김정선</span>, 김정훈, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2021 · December 2021 · 🏆 우수발표논문상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K11] 역할 정보를 반영한 다중 네트워크 임베딩 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035620">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">성낙현</span>, 김정환, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2021 · December 2021</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K11] 역할 정보를 반영한 다중 네트워크 임베딩 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035620">[link]</a></div> <div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">성낙현</span>, 김정환, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2021 · December 2021</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K10] k-NN과 그래프 신경망을 이용한 하이브리드 시퀀셜 추천시스템 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035715">[link]</a></div>
-<div class="pub-authors">구호근, 이수민, 조원근, <span class="dilab-author">임성수</span>, 김동일</div>
-<div class="pub-venue">KSC 2021 · December 2021</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K10] k-NN과 그래프 신경망을 이용한 하이브리드 시퀀셜 추천시스템 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035715">[link]</a></div> <div class="pub-authors">구호근, 이수민, 조원근, <span class="dilab-author">임성수</span>, 김동일</div> <div class="pub-venue">KSC 2021 · December 2021</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K9] 이종 그래프 표현 학습을 위한 링크 특징이 강화된 그래프 어텐션 네트워크 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2021/KDBC2021_Proceedings.pdf">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">박종민</span>, <span class="dilab-author">강다현</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KDBC 2021 · November 2021 · 🏆 우수논문상 금상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K9] 이종 그래프 표현 학습을 위한 링크 특징이 강화된 그래프 어텐션 네트워크 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2021/KDBC2021_Proceedings.pdf">[link]</a></div> <div class="pub-authors"><span class="dilab-author">박종민</span>, <span class="dilab-author">강다현</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KDBC 2021 · November 2021 · 🏆 우수논문상 금상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K8] 링크 속성 기반 분류를 통한 커뮤니티 발견 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10594635">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">김정선</span>, <span class="dilab-author">정수환</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">정보과학회논문지 · August 2021 · KCI</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K8] 링크 속성 기반 분류를 통한 커뮤니티 발견 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10594635">[link]</a></div> <div class="pub-authors"><span class="dilab-author">김정선</span>, <span class="dilab-author">정수환</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">정보과학회논문지 · August 2021 · KCI</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K7] 분류를 위한 차등 프라이버시 보호 연합 학습 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547819">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">조승현</span>, 이상화, 김수민, 김주희, 채명수, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KICS Winter 2021 · February 2021</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K7] 분류를 위한 차등 프라이버시 보호 연합 학습 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547819">[link]</a></div> <div class="pub-authors"><span class="dilab-author">조승현</span>, 이상화, 김수민, 김주희, 채명수, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KICS Winter 2021 · February 2021</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K6] 그래프 링크 속성 분류를 통한 커뮤니티 발견 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529533">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2020 · December 2020 · 🏆 우수논문상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K6] 그래프 링크 속성 분류를 통한 커뮤니티 발견 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529533">[link]</a></div> <div class="pub-authors"><span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2020 · December 2020 · 🏆 우수논문상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K5] 그래프 클러스터링을 위한 삼각 분할 기반 임베딩 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301897">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">박종민</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2019 · December 2019 · 🏆 학부생 논문경진대회 장려상</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K5] 그래프 클러스터링을 위한 삼각 분할 기반 임베딩 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301897">[link]</a></div> <div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">박종민</span>, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2019 · December 2019 · 🏆 학부생 논문경진대회 장려상</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K4] 딥러닝 모델 압축 기술을 활용한 시각장애인 대화 보조용 감정 인식 어플리케이션 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301984">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">심규영</span>, 최소영, 유태하, 채명수, 김태호, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2019 · December 2019</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K4] 딥러닝 모델 압축 기술을 활용한 시각장애인 대화 보조용 감정 인식 어플리케이션 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301984">[link]</a></div> <div class="pub-authors"><span class="dilab-author">심규영</span>, 최소영, 유태하, 채명수, 김태호, <span class="dilab-author">임성수</span></div> <div class="pub-venue">KSC 2019 · December 2019</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K3] 연속 신호 임베딩을 통한 복합 이벤트 탐지</div>
-<div class="pub-authors"><span class="dilab-author">김환</span>, 김형신, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">CEIC 2019 · December 2019</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K3] 연속 신호 임베딩을 통한 복합 이벤트 탐지</div> <div class="pub-authors"><span class="dilab-author">김환</span>, 김형신, <span class="dilab-author">임성수</span></div> <div class="pub-venue">CEIC 2019 · December 2019</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K2] Transformation-Based Community Detection from Social Networks</div>
-<div class="pub-authors"><span class="dilab-author">임성수</span>, 이재길</div>
-<div class="pub-venue">JCCI 2016 · April 2016 · Invited Paper</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K2] Transformation-Based Community Detection from Social Networks</div> <div class="pub-authors"><span class="dilab-author">임성수</span>, 이재길</div> <div class="pub-venue">JCCI 2016 · April 2016 · Invited Paper</div> </div>
 
-<div class="pub-item">
-<div class="pub-title">[K1] 소셜 네트워크 내 정보 확산 최적화 및 상전이 현상 연구 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01739948">[link]</a></div>
-<div class="pub-authors"><span class="dilab-author">임성수</span>, 김현아, 허우람, 정교민</div>
-<div class="pub-venue">정보과학회지 · November 2011 · SNS 특집호</div>
-</div>
+<div class="pub-item"> <div class="pub-title">[K1] 소셜 네트워크 내 정보 확산 최적화 및 상전이 현상 연구 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01739948">[link]</a></div> <div class="pub-authors"><span class="dilab-author">임성수</span>, 김현아, 허우람, 정교민</div> <div class="pub-venue">정보과학회지 · November 2011 · SNS 특집호</div> </div>
+
