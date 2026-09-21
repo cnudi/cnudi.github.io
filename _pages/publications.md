@@ -50,6 +50,15 @@ author_profile: true
   line-height: 1.5;
 }
 
+.journal-metric {
+  margin-left: 0.45em;
+  color: #8a969e;
+  font-size: 0.82em;
+  font-style: normal;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
 .pub-note {
   margin: 0 0 0.55em 0;
   color: #777;
@@ -350,7 +359,7 @@ author_profile: true
 
 <div class="pub-authors">Dahee Kim, Hyewon Kim, Song Kim, Minseok Kim, Junghoon Kim*, Yeon-Chang Lee, and <span class="dilab-author">Sungsu Lim</span></div>
 
-<div class="pub-venue">Knowledge-Based Systems, Feb. 2026</div>
+<div class="pub-venue">Knowledge-Based Systems, Feb. 2026 <span class="journal-metric">IF 8.0 · Q1</span></div>
 
 </div>
 
@@ -360,7 +369,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hyewon Lee</span> and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Applied Sciences, Feb. 2026</div>
+<div class="pub-venue">Applied Sciences, Feb. 2026 <span class="journal-metric">IF 2.9 · Q2</span></div>
 
 </div>
 
@@ -390,7 +399,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hwan Kim</span>, Junghoon Kim*, Byung Suk Lee, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Expert Systems with Applications, Jan. 2026</div>
+<div class="pub-venue">Expert Systems with Applications, Jan. 2026 <span class="journal-metric">IF 9.4 · Q1</span></div>
 
 </div>
 
@@ -402,7 +411,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Hyewon Lee</span>, Daniel Y. Lee, Sungsoo Kim, Susik Yoon*, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Knowledge-Based Systems, Nov. 2025</div>
+<div class="pub-venue">Knowledge-Based Systems, Nov. 2025 <span class="journal-metric">IF 8.0 · Q1</span></div>
 
 </div>
 
@@ -432,7 +441,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jeongseon Kim</span>, <span class="dilab-author">Soohwan Jeong</span>, Jungeun Kim, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">PeerJ Computer Science, Sep. 2025</div>
+<div class="pub-venue">PeerJ Computer Science, Sep. 2025 <span class="journal-metric">IF 2.9 · Q2</span></div>
 
 </div>
 
@@ -442,7 +451,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soohwan Jeong</span>†, <span class="dilab-author">Jongmin Park</span>†, <span class="dilab-author">Mingyu Choi</span>†, Yongjin Kwon*, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Expert Systems with Applications, Aug. 2025</div>
+<div class="pub-venue">Expert Systems with Applications, Aug. 2025 <span class="journal-metric">IF 9.4 · Q1</span></div>
 
 </div>
 
@@ -462,7 +471,7 @@ author_profile: true
 
 <div class="pub-authors">Hyewon Kim, Woocheol Shin, Dahee Kim, Junghoon Kim*, <span class="dilab-author">Sungsu Lim</span>, and Hyun Ji Jeong</div>
 
-<div class="pub-venue">Knowledge-Based Systems, Jun. 2025</div>
+<div class="pub-venue">Knowledge-Based Systems, Jun. 2025 <span class="journal-metric">IF 8.0 · Q1</span></div>
 
 </div>
 
@@ -472,7 +481,7 @@ author_profile: true
 
 <div class="pub-authors">Seungwoo Ryu, <span class="dilab-author">Sungsu Lim</span>, Seungsoo Yoo, and Sun Yong Kim*</div>
 
-<div class="pub-venue">IEEE Access, May 2025</div>
+<div class="pub-venue">IEEE Access, May 2025 <span class="journal-metric">IF 4.2 · Q2</span></div>
 
 </div>
 
@@ -482,7 +491,7 @@ author_profile: true
 
 <div class="pub-authors">Giju Eoh, <span class="dilab-author">Sungsu Lim</span>, and Jongseok Park*</div>
 
-<div class="pub-venue">Horticultural Science and Technology, Apr. 2025</div>
+<div class="pub-venue">Horticultural Science and Technology, Apr. 2025 <span class="journal-metric">IF 1.3 · Q3</span></div>
 
 </div>
 
@@ -502,7 +511,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soyoung Park</span>, <span class="dilab-author">Hyewon Lee</span>, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">PeerJ Computer Science, Feb. 2025</div>
+<div class="pub-venue">PeerJ Computer Science, Feb. 2025 <span class="journal-metric">IF 2.9 · Q2</span></div>
 
 </div>
 
@@ -524,7 +533,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hwan Kim</span>, <span class="dilab-author">Mingyu Choi</span>, Sekil Park, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">PLOS ONE, Aug. 2024</div>
+<div class="pub-venue">PLOS ONE, Aug. 2024 <span class="journal-metric">IF 2.6 · Q2</span></div>
 
 </div>
 
@@ -534,7 +543,7 @@ author_profile: true
 
 <div class="pub-authors">Dahee Kim, Song Kim, <span class="dilab-author">Jeongseon Kim</span>, Junghoon Kim*, Kaiyu Feng, <span class="dilab-author">Sungsu Lim</span>, and Jungeun Kim</div>
 
-<div class="pub-venue">Information Sciences, Jun. 2024</div>
+<div class="pub-venue">Information Sciences, Jun. 2024 <span class="journal-metric">IF 6.8 · Q1</span></div>
 
 </div>
 
@@ -554,7 +563,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hangoo Kang</span>, Dongil Kim, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Journal of Marine Science and Engineering, May 2024</div>
+<div class="pub-venue">Journal of Marine Science and Engineering, May 2024 <span class="journal-metric">IF 2.8 · Q2</span></div>
 
 </div>
 
@@ -564,7 +573,7 @@ author_profile: true
 
 <div class="pub-authors">Changwon Seo, Kyeong-Joong Jeong, <span class="dilab-author">Sungsu Lim</span>, and Won-Yong Shin*</div>
 
-<div class="pub-venue">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr. 2024</div>
+<div class="pub-venue">IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Apr. 2024 <span class="journal-metric">IF 8.9 · Q1</span></div>
 
 </div>
 
@@ -574,7 +583,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soohwan Jeong</span>, <span class="dilab-author">Jeongseon Kim</span>, Byung Suk Lee, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">PLOS ONE, Apr. 2024</div>
+<div class="pub-venue">PLOS ONE, Apr. 2024 <span class="journal-metric">IF 2.6 · Q2</span></div>
 
 </div>
 
@@ -586,7 +595,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Soohwan Jeong</span>, Byung Suk Lee, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Future Generation Computer Systems, Dec. 2023</div>
+<div class="pub-venue">Future Generation Computer Systems, Dec. 2023 <span class="journal-metric">IF 6.2 · Q1</span></div>
 
 </div>
 
@@ -596,7 +605,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soohwan Jeong</span>, <span class="dilab-author">Jongmin Park</span>, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Pattern Recognition Letters, Dec. 2023</div>
+<div class="pub-venue">Pattern Recognition Letters, Dec. 2023 <span class="journal-metric">IF 3.9 · Q2</span></div>
 
 </div>
 
@@ -636,7 +645,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Nakhyeon Seong</span>†, <span class="dilab-author">Jeongseon Kim</span>†, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Journal of Marine Science and Engineering, Oct. 2023</div>
+<div class="pub-venue">Journal of Marine Science and Engineering, Oct. 2023 <span class="journal-metric">IF 2.7 · Q1</span></div>
 
 </div>
 
@@ -646,7 +655,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soohwan Jeong</span>†, Chonghyo Joo†, Jongkoo Lim, Hyungtae Cho, <span class="dilab-author">Sungsu Lim</span>*, and Junghwan Kim*</div>
 
-<div class="pub-venue">Computers in Industry, Sep. 2023</div>
+<div class="pub-venue">Computers in Industry, Sep. 2023 <span class="journal-metric">IF 8.2 · Q1</span></div>
 
 </div>
 
@@ -666,7 +675,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Soohwan Jeong</span>†, Jonghun Lim†, Seok Il Hong, Soon Chul Kwon, Jae Yun Shin, Yup Yoo, Hyungtae Cho, <span class="dilab-author">Sungsu Lim</span>*, and Junghwan Kim*</div>
 
-<div class="pub-venue">Process Safety and Environmental Protection, Jul. 2023</div>
+<div class="pub-venue">Process Safety and Environmental Protection, Jul. 2023 <span class="journal-metric">IF 6.9 · Q1</span></div>
 
 </div>
 
@@ -678,7 +687,7 @@ author_profile: true
 
 <div class="pub-authors">Junghoon Kim, Jungeun Kim*, Hyun Ji Jeong, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Knowledge-Based Systems, Nov. 2022</div>
+<div class="pub-venue">Knowledge-Based Systems, Nov. 2022 <span class="journal-metric">IF 8.8 · Q1</span></div>
 
 </div>
 
@@ -688,7 +697,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hwan Kim</span>, Byung Suk Lee, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">IEEE Access, Oct. 2022 <span class='show_paper_citations' data='cMQT0a8AAAAJ:RGFaLdJalmkC'></span></div>
+<div class="pub-venue">IEEE Access, Oct. 2022 <span class='show_paper_citations' data='cMQT0a8AAAAJ:RGFaLdJalmkC'></span> <span class="journal-metric">IF 3.9 · Q2</span></div>
 
 </div>
 
@@ -698,7 +707,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span> and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">IEEE Access, Aug. 2022</div>
+<div class="pub-venue">IEEE Access, Aug. 2022 <span class="journal-metric">IF 3.9 · Q2</span></div>
 
 </div>
 
@@ -708,7 +717,7 @@ author_profile: true
 
 <div class="pub-authors">Junghoon Kim, <span class="dilab-author">Sungsu Lim</span>*, and Jungeun Kim*</div>
 
-<div class="pub-venue">Information Sciences, Aug. 2022</div>
+<div class="pub-venue">Information Sciences, Aug. 2022 <span class="journal-metric">IF 8.1 · Q1</span></div>
 
 </div>
 
@@ -718,7 +727,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jeongseon Kim</span>, <span class="dilab-author">Soohwan Jeong</span>, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Applied Sciences, Jul. 2022</div>
+<div class="pub-venue">Applied Sciences, Jul. 2022 <span class="journal-metric">IF 2.7 · Q2</span></div>
 
 </div>
 
@@ -740,7 +749,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Hwan Kim</span> and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Energies, May 2021</div>
+<div class="pub-venue">Energies, May 2021 <span class="journal-metric">IF 3.252 · Q3</span></div>
 
 </div>
 
@@ -750,7 +759,7 @@ author_profile: true
 
 <div class="pub-authors">Sangkeun Jung and <span class="dilab-author">Sungsu Lim</span></div>
 
-<div class="pub-venue">IEEE BigComp 2021 · Best Paper Award (3rd Place)</div>
+<div class="pub-venue">IEEE BigComp 2021 · 🏆 Best Paper Award (3rd Place)</div>
 
 </div>
 
@@ -784,7 +793,7 @@ author_profile: true
 
 <div class="pub-authors">Jungeun Kim, <span class="dilab-author">Sungsu Lim</span>, Jae-Gil Lee*, and Byung Suk Lee</div>
 
-<div class="pub-venue">IEEE Transactions on Knowledge and Data Engineering (TKDE), Nov. 2019</div>
+<div class="pub-venue">IEEE Transactions on Knowledge and Data Engineering (TKDE), Nov. 2019 <span class="journal-metric">IF 4.935 · Q1</span></div>
 
 </div>
 
@@ -796,7 +805,7 @@ Extended abstract presented at ICDE 2019
 
 <div class="pub-authors">Byeongjin Choe, Yishi Lin, <span class="dilab-author">Sungsu Lim</span>, John C.S. Lui, and Kyomin Jung*</div>
 
-<div class="pub-venue">Physical Review E, Nov. 2019</div>
+<div class="pub-venue">Physical Review E, Nov. 2019 <span class="journal-metric">IF 2.296 · Q1</span></div>
 
 </div>
 
@@ -808,7 +817,7 @@ Extended abstract presented at ICDE 2019
 
 <div class="pub-authors">Jungeun Kim, Jae-Gil Lee*, and <span class="dilab-author">Sungsu Lim</span></div>
 
-<div class="pub-venue">ACM Transactions on Intelligent Systems and Technology (TIST), Jan. 2017</div>
+<div class="pub-venue">ACM Transactions on Intelligent Systems and Technology (TIST), Jan. 2017 <span class="journal-metric">IF 2.973 · Q1</span></div>
 
 </div>
 
@@ -818,11 +827,9 @@ Extended abstract presented at ICDE 2019
 
 <div class="pub-authors"><span class="dilab-author">Sungsu Lim</span> and Jae-Gil Lee*</div>
 
-<div class="pub-venue">Journal of Statistical Mechanics: Theory and Experiment, Dec. 2016</div>
+<div class="pub-venue">Journal of Statistical Mechanics: Theory and Experiment, Dec. 2016 · 🏆 Qualcomm Innovation Award, 2016 <span class="journal-metric">IF 2.196 · Q1</span></div>
 
 </div>
-
-Qualcomm Innovation Award, 2016
 
 <div class="pub-item">
 
@@ -830,7 +837,7 @@ Qualcomm Innovation Award, 2016
 
 <div class="pub-authors"><span class="dilab-author">Sungsu Lim</span>, Joongbo Shin, Namju Kwak, and Kyomin Jung*</div>
 
-<div class="pub-venue">European Physical Journal B, Sep. 2016</div>
+<div class="pub-venue">European Physical Journal B, Sep. 2016 <span class="journal-metric">IF 1.436 · Q3</span></div>
 
 </div>
 
@@ -850,7 +857,7 @@ Qualcomm Innovation Award, 2016
 
 <div class="pub-authors"><span class="dilab-author">Sungsu Lim</span>, Inwoo Jung, Seulki Lee, and Kyomin Jung*</div>
 
-<div class="pub-venue">European Physical Journal B, Aug. 2015</div>
+<div class="pub-venue">European Physical Journal B, Aug. 2015 <span class="journal-metric">IF 1.223 · Q3</span></div>
 
 </div>
 
@@ -870,7 +877,7 @@ Qualcomm Innovation Award, 2016
 
 <div class="pub-authors"><span class="dilab-author">Sungsu Lim</span>, Kyomin Jung, and Matthew Andrews</div>
 
-<div class="pub-venue">IEEE/ACM Transactions on Networking (TON), Dec. 2014</div>
+<div class="pub-venue">IEEE/ACM Transactions on Networking (TON), Dec. 2014 <span class="journal-metric">IF 1.811 · Q1</span></div>
 
 </div>
 
@@ -900,11 +907,9 @@ Qualcomm Innovation Award, 2016
 
 <div class="pub-authors"><span class="dilab-author">Sungsu Lim</span>, Kyomin Jung, and Matthew Andrews</div>
 
-<div class="pub-venue">INFOCOM 2012 · Acceptance Rate: 18.0%</div>
+<div class="pub-venue">INFOCOM 2012 · Acceptance Rate: 18.0% · 🏆 Samsung Humantech Paper Award, 2012</div>
 
 </div>
-
-Samsung Humantech Paper Award, 2012
 
 <div class="pub-section">Workshops, Demos, and Other Publications</div>
 
@@ -1033,7 +1038,7 @@ Also presented as a poster at NVIDIA GTC 2023
 <div class="pub-item">
 <div class="pub-title">[K29] 대규모 언어 모델을 활용한 멀티 뷰 학습 기반의 추천 시스템 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2025/proceedings.html">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">박소영</span>, <span class="dilab-author">임성수</span>*</div>
-<div class="pub-venue">KDBC 2025 · November 2025 · 🏆 Bronze Best Paper Award</div>
+<div class="pub-venue">KDBC 2025 · November 2025 · 🏆 우수논문상 동상</div>
 </div>
 
 <div class="pub-item">
@@ -1069,7 +1074,7 @@ Also presented as a poster at NVIDIA GTC 2023
 <div class="pub-item">
 <div class="pub-title">[K23] Graph-Mamba 기반 POI 추천 시스템 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949238">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">최민규</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">제5회 한국인공지능학술대회 · September 2024 · 🏆 Best Paper Award</div>
+<div class="pub-venue">제5회 한국인공지능학술대회 · September 2024 · 🏆 우수논문상</div>
 </div>
 
 <div class="pub-item">
@@ -1135,7 +1140,7 @@ Also presented as a poster at NVIDIA GTC 2023
 <div class="pub-item">
 <div class="pub-title">[K12] 소셜 네트워크의 참여도에 기반한 핵심 사용자의 동적 식별 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035624">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">김정선</span>, 김정훈, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2021 · December 2021 · 🏆 Best Presentation Paper Award</div>
+<div class="pub-venue">KSC 2021 · December 2021 · 🏆 우수발표논문상</div>
 </div>
 
 <div class="pub-item">
@@ -1153,7 +1158,7 @@ Also presented as a poster at NVIDIA GTC 2023
 <div class="pub-item">
 <div class="pub-title">[K9] 이종 그래프 표현 학습을 위한 링크 특징이 강화된 그래프 어텐션 네트워크 <a class="pub-link" href="https://dbsociety.kr/kdbc/kdbc2021/KDBC2021_Proceedings.pdf">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">박종민</span>, <span class="dilab-author">강다현</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KDBC 2021 · November 2021 · 🏆 Gold Best Paper Award</div>
+<div class="pub-venue">KDBC 2021 · November 2021 · 🏆 우수논문상 금상</div>
 </div>
 
 <div class="pub-item">
@@ -1171,13 +1176,13 @@ Also presented as a poster at NVIDIA GTC 2023
 <div class="pub-item">
 <div class="pub-title">[K6] 그래프 링크 속성 분류를 통한 커뮤니티 발견 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529533">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">김정선</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2020 · December 2020 · 🏆 Best Paper Award</div>
+<div class="pub-venue">KSC 2020 · December 2020 · 🏆 우수논문상</div>
 </div>
 
 <div class="pub-item">
 <div class="pub-title">[K5] 그래프 클러스터링을 위한 삼각 분할 기반 임베딩 <a class="pub-link" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301897">[link]</a></div>
 <div class="pub-authors"><span class="dilab-author">정수환</span>, <span class="dilab-author">박종민</span>, <span class="dilab-author">임성수</span></div>
-<div class="pub-venue">KSC 2019 · December 2019 · 🏆 Undergraduate Paper Encouragement Award</div>
+<div class="pub-venue">KSC 2019 · December 2019 · 🏆 학부생 논문경진대회 장려상</div>
 </div>
 
 <div class="pub-item">
