@@ -99,6 +99,16 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">KCC 2025</div>
+
+<div class="photo-meta">Jeju, Korea · June 2025</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kcc-2025-1.jpg" alt="KCC 2025">
+  <img src="/images/photos/kcc-2025-2.jpg" alt="KCC 2025">
+</div>
+
+
 <div class="photo-section">PAKDD 2025</div>
 
 <div class="photo-meta">Sydney, Australia · June 2025</div>
@@ -107,6 +117,17 @@ A collection of moments from conferences and activities with DILAB members.
   <img src="/images/photos/pakdd-2025-1.jpg" alt="PAKDD 2025">
   <img src="/images/photos/pakdd-2025-2.jpg" alt="PAKDD 2025">
   <img src="/images/photos/pakdd-2025-3.jpg" alt="PAKDD 2025">
+</div>
+
+
+<div class="photo-section">KSC 2024</div>
+
+<div class="photo-meta">Yeosu, Korea · December 2024</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2024-1.jpg" alt="KSC 2024">
+  <img src="/images/photos/ksc-2024-2.jpg" alt="KSC 2024">
+  <img src="/images/photos/ksc-2024-3.jpg" alt="KSC 2024">
 </div>
 
 
@@ -121,6 +142,47 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">IJCAI 2024</div>
+
+<div class="photo-meta">Jeju, Korea · August 2024</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ijcai-2024-1.jpg" alt="IJCAI 2024">
+  <img src="/images/photos/ijcai-2024-2.jpg" alt="IJCAI 2024">
+</div>
+
+
+<div class="photo-section">WWW 2024</div>
+
+<div class="photo-meta">Singapore · May 2024</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/www-2024-1.jpg" alt="WWW 2024">
+  <img src="/images/photos/www-2024-2.jpg" alt="WWW 2024">
+</div>
+
+
+<div class="photo-section">KSC 2023</div>
+
+<div class="photo-meta">Busan, Korea · December 2023</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2023-1.jpg" alt="KSC 2023">
+  <img src="/images/photos/ksc-2023-2.jpg" alt="KSC 2023">
+</div>
+
+
+<div class="photo-section">KDBC 2023</div>
+
+<div class="photo-meta">Busan, Korea · November 2023</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kdbc-2023-1.jpg" alt="KDBC 2023">
+  <img src="/images/photos/kdbc-2023-2.jpg" alt="KDBC 2023">
+  <img src="/images/photos/kdbc-2023-3.jpg" alt="KDBC 2023">
+</div>
+
+
 <div class="photo-section">ICCV 2023</div>
 
 <div class="photo-meta">Paris, France · October 2023</div>
@@ -129,4 +191,14 @@ A collection of moments from conferences and activities with DILAB members.
   <img src="/images/photos/iccv-2023-1.jpg" alt="ICCV 2023">
   <img src="/images/photos/iccv-2023-2.jpg" alt="ICCV 2023">
   <img src="/images/photos/iccv-2023-3.jpg" alt="ICCV 2023">
+</div>
+
+
+<div class="photo-section">Database Society Summer School 2023</div>
+
+<div class="photo-meta">Seoul, Korea · August 2023</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/dsss-2023-1.jpg" alt="DSSS 2023">
+  <img src="/images/photos/dsss-2023-2.jpg" alt="DSSS 2023">
 </div>
