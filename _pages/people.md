@@ -175,6 +175,7 @@ author_profile: true
   <p class="affiliation">CNU CSE</p>
   <p class="interests">GraphRAG, LLMs, Information Retrieval</p>
   <p>
+    <a href="https://courageous-wood-b6d.notion.site/Junghyun-Oh-2ae48c448e7245f48787ce00fd8e8d62?pvs=143">Homepage</a> ·
     <a href="https://scholar.google.com/citations?user=sHkiTMQAAAAJ">Google Scholar</a>
   </p>
 </div>
@@ -211,8 +212,8 @@ author_profile: true
 <span class="member-name">Jae-Wook Seol</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
 <span class="member-name">Jun-Hyoung Park</span> <span class="member-info">(Ph.D. Candidate) — KFE</span><br>
 <span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPRI</span><br>
-<span class="member-name">Semi Min</span> <span class="member-info">(M.S.) — KIRD</span><br>
-<span class="member-name">Aran Cho</span> <span class="member-info">(M.S.) — K-water</span>
+<span class="member-name">Semi Min</span> <span class="member-info">(M.S. Student) — KIRD</span><br>
+<span class="member-name">Aran Cho</span> <span class="member-info">(M.S. Student) — K-water</span>
 
 </div>
 
