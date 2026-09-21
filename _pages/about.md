@@ -236,10 +236,6 @@ redirect_from:
 <div class="lab-header">
   <div class="lab-kicker">CHUNGNAM NATIONAL UNIVERSITY</div>
   <h1>Data Intelligence Lab</h1>
-  <p>
-    Learning from <strong>complex, structured, and interconnected data</strong>
-    for intelligent and trustworthy AI.
-  </p>
 </div>
 
 <div class="lab-intro">
