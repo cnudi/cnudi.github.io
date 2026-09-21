@@ -134,6 +134,34 @@ redirect_from:
   font-weight: 600;
 }
 
+.news-more {
+  margin-top: 0.6rem;
+}
+
+.news-more summary {
+  display: inline-block;
+  cursor: pointer;
+  color: #3976a8;
+  font-size: 0.9em;
+  font-weight: 600;
+  list-style: none;
+}
+
+.news-more summary::-webkit-details-marker {
+  display: none;
+}
+
+.news-more summary::after {
+  content: " ↓";
+}
+
+.news-more[open] summary::after {
+  content: " ↑";
+}
+
+.news-more-content {
+  margin-top: 0.9rem;
+}
 
 /* ---------- Mobile ---------- */
 
@@ -217,6 +245,8 @@ augmentation for large language models.
 
 <div class="news-list">
 
+<!-- 항상 보이는 최신 News -->
+
 <div class="news-item">
 <span class="news-date">2026.08</span>
 🎉 Our work on <strong>few-shot learning on text-attributed graphs</strong>
@@ -246,6 +276,14 @@ was presented at <em>ICML 2026</em>.
 was presented at <em>WACV 2026</em>.
 </div>
 
+
+<!-- 이전 News -->
+
+<details class="news-more">
+<summary>Show more</summary>
+
+<div class="news-more-content">
+
 <div class="news-item">
 <span class="news-date">2026.02</span>
 🎉 Our work on <strong>LLM-enhanced graph representation learning</strong>
@@ -256,6 +294,18 @@ was presented at <em>WSDM 2026</em>.
 <span class="news-date">2026.02</span>
 🎓 Congratulations to <strong>Jongmin</strong> on completing his Ph.D.
 and <strong>Hyewon</strong> on completing her M.S.!
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.11</span>
+🏆 DILAB placed <strong>4th and received a Special Award</strong>
+in the <em><a href="https://anacnu.kr/board/cnunotice/324">CIKM 2025 AnalytiCup Alibaba Challenge</a></em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.11</span>
+🏆 DILAB won <strong>2nd Place</strong> in the
+<em>ScienceON AI Challenge 2025</em>.
 </div>
 
 <div class="news-item">
@@ -287,6 +337,10 @@ was presented at <em>EDBT 2025</em>.
 🎓 Congratulations to <strong>Hwan</strong> on completing his Ph.D.
 and <strong>Mingyu</strong> on completing his M.S.!
 </div>
+
+</div>
+
+</details>
 
 </div>
 
