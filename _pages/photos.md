@@ -212,3 +212,91 @@ A collection of moments from conferences and activities with DILAB members.
   <img src="/images/photos/dsss-2023-1.jpg" alt="DSSS 2023">
   <img src="/images/photos/dsss-2023-2.jpg" alt="DSSS 2023">
 </div>
+
+
+<div class="photo-section">KSC 2022</div>
+
+<div class="photo-meta">Jeju, Korea · December 2022</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2022-1.jpg" alt="KSC 2022">
+  <img src="/images/photos/ksc-2022-2.jpg" alt="KSC 2022">
+</div>
+
+
+<div class="photo-section">ASONAM 2022</div>
+
+<div class="photo-meta">Istanbul, Türkiye · November 2022</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/asonam-2022-1.jpg" alt="ASONAM 2022">
+</div>
+
+
+<div class="photo-section">KCC 2022</div>
+
+<div class="photo-meta">Jeju, Korea · June 2022</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kcc-2022-1.jpg" alt="KCC 2022">
+</div>
+
+
+<div class="photo-section">Visiting @ University of Vermont 2022</div>
+
+<div class="photo-meta">Vermont, USA · January 2022</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/uv-2022-1.jpg" alt="UV 2022">
+  <img src="/images/photos/uv-2022-2.jpg" alt="UV 2022">
+</div>
+
+
+<div class="photo-section">KSC 2021</div>
+
+<div class="photo-meta">Pyeongchang, Korea · December 2021</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2021-1.jpg" alt="KSC 2021">
+  <img src="/images/photos/ksc-2021-2.jpg" alt="KSC 2021">
+  <img src="/images/photos/ksc-2021-3.jpg" alt="KSC 2021">
+</div>
+
+
+<div class="photo-section">KDBC 2021</div>
+
+<div class="photo-meta">Daejeon, Korea · November 2021</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kdbc-2021-1.jpg" alt="KDBC 2021">
+  <img src="/images/photos/kdbc-2021-2.jpg" alt="KDBC 2021">
+  <img src="/images/photos/kdbc-2021-3.jpg" alt="KDBC 2021">
+</div>
+
+
+<div class="photo-section">AAAI 2020</div>
+
+<div class="photo-meta">New York, USA · February 2020</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/aaai-2020-1.jpg" alt="AAAI 2020">
+</div>
+
+
+<div class="photo-section">KSC 2019</div>
+
+<div class="photo-meta">Pyeongchang, Korea · December 2019</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ksc-2019-1.jpg" alt="KSC 2019">
+  <img src="/images/photos/ksc-2019-2.jpg" alt="KSC 2019">
+</div>
+
+
+<div class="photo-section">CEIC 2019</div>
+
+<div class="photo-meta">Daejeon, Korea · December 2019</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/ceic-2019-1.jpg" alt="CEIC 2019">
+</div>
