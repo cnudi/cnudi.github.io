@@ -84,7 +84,6 @@ A collection of moments from conferences and activities with DILAB members.
 <div class="photo-grid">
   <img src="/images/photos/wacv-2026-1.jpg" alt="WACV 2026">
   <img src="/images/photos/wacv-2026-2.jpg" alt="WACV 2026">
-  <img src="/images/photos/wacv-2026-3.jpg" alt="WACV 2026">
 </div>
 
 
