@@ -272,7 +272,7 @@ author_profile: true
 <span class="member-name">Jihwan Jeong</span> <span class="member-info">(2025–2026, CNU CSE)</span><br>
 <span class="member-name">Jieun Lim</span> <span class="member-info">(2025–2026, CNU CSE)</span><br>
 <span class="member-name">Minkyung Song</span> <span class="member-info">(2024, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
-<span class="member-name">Minki Kim</span> <span class="member-info">(2024, CNU Math) → VCLab @ CNU</span><br>
+<span class="member-name">Minki Kim</span> <span class="member-info">(2024, CNU Math) → CNU (M.S. in CSE)</span><br>
 <span class="member-name">Hyewon Lee</span> <span class="member-info">(2023, CNU Math) → </span><span class="dilab">CNUDI</span><br>
 <span class="member-name">Mingyu Choi</span> <span class="member-info">(2022, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
 <span class="member-name">Seunghoon Han</span> <span class="member-info">(2022, CNU CSE) → </span><span class="dilab">CNUDI</span><br>
