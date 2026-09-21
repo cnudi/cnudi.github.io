@@ -724,9 +724,9 @@ author_profile: true
 
 <div class="pub-venue">IEEE Transactions on Knowledge and Data Engineering (TKDE), Nov. 2019 <span class="journal-metric">IF 4.935 · Q1</span></div>
 
-</div>
+<div class="pub-venue">Also presented as an extended abstract at ICDE 2019</div>
 
-Extended abstract presented at ICDE 2019
+</div>
 
 <div class="pub-item">
 
@@ -840,7 +840,7 @@ Extended abstract presented at ICDE 2019
 
 </div>
 
-<div class="pub-section">Workshops, Demos, and Other Publications</div>
+<div class="pub-section">Selected Workshops & Demos</div>
 
 <div class="pub-item">
 
@@ -920,9 +920,9 @@ Extended abstract presented at ICDE 2019
 
 <div class="pub-venue">MLSys 2023 On-Device Intelligence Workshop</div>
 
-</div>
+<div class="pub-venue">Also presented as a poster at NVIDIA GTC 2023</div>
 
-Also presented as a poster at NVIDIA GTC 2023
+</div>
 
 <div class="pub-item">
 
