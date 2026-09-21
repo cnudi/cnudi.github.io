@@ -99,6 +99,16 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">KDBC 2025</div>
+
+<div class="photo-meta">Gyeongju, Korea · November 2025</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kdbc-2025-1.jpg" alt="KDBC 2025">
+  <img src="/images/photos/kdbc-2025-2.jpg" alt="KDBC 2025">
+</div>
+
+
 <div class="photo-section">KCC 2025</div>
 
 <div class="photo-meta">Jeju, Korea · June 2025</div>
