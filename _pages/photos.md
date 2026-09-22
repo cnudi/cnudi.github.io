@@ -76,6 +76,24 @@ author_profile: true
 A collection of moments from conferences and activities with DILAB members.
 </p>
 
+<div class="photo-section">SIGIR 2026</div>
+
+<div class="photo-meta">Melbourne, Australia · July 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/sigir-2026-1.jpg" alt="SIGIR 2026">
+</div>
+
+
+<div class="photo-section">ICML 2026</div>
+
+<div class="photo-meta">Seoul, Korea · July 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/icml-2026-1.jpg" alt="ICML 2026">
+  <img src="/images/photos/icml-2026-2.jpg" alt="ICML 2026">
+</div>
+
 
 <div class="photo-section">WACV 2026</div>
 
