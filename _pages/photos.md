@@ -186,6 +186,17 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
+<div class="photo-section">GenAI Summit Silicon Valley 2024</div>
+
+<div class="photo-meta">Santa Clara, CA, USA · November 2024</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/genai-2024-1.jpg" alt="GenAI 2024">
+  <img src="/images/photos/genai-2024-2.jpg" alt="GenAI 2024">
+  <img src="/images/photos/genai-2024-3.jpg" alt="GenAI 2024">
+</div>
+
+
 <div class="photo-section">ICDM 2024</div>
 
 <div class="photo-meta">Abu Dhabi, UAE · December 2024</div>
@@ -289,7 +300,7 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-section">Visiting @ University of Vermont 2022</div>
 
-<div class="photo-meta">Vermont, USA · January 2022</div>
+<div class="photo-meta">Burlington, VT, USA · January 2022</div>
 
 <div class="photo-grid">
   <img src="/images/photos/uv-2022-1.jpg" alt="UV 2022">
@@ -321,7 +332,7 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-section">AAAI 2020</div>
 
-<div class="photo-meta">New York, USA · February 2020</div>
+<div class="photo-meta">New York, NY, USA · February 2020</div>
 
 <div class="photo-grid">
   <img src="/images/photos/aaai-2020-1.jpg" alt="AAAI 2020">
