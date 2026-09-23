@@ -51,6 +51,16 @@ author_profile: true
   margin-top: 2rem;
 }
 
+.photo-section a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.photo-section a:hover {
+  color: #3976a8;
+  text-decoration: underline;
+}
+
 .photo-meta {
   color: #667785;
   font-size: 0.92rem;
@@ -105,7 +115,9 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
-<div class="photo-section">[1st UNIST-CNU Workshop](https://unist-cnu.github.io/)</div>
+<div class="photo-section">
+  <a href="https://unist-cnu.github.io/" target="_blank" rel="noopener">1st UNIST-CNU Workshop</a>
+</div>
 
 <div class="photo-meta">Ulsan, Korea · February 2026</div>
 
