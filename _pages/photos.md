@@ -121,7 +121,7 @@ A collection of moments from conferences and activities with DILAB members.
 <div class="photo-grid">
   <img src="/images/photos/aaai-2026-1.JPG" alt="AAAI 2026">
   <img src="/images/photos/aaai-2026-2.JPG" alt="AAAI 2026">
-  <img src="/images/photos/aaai-2026-3.JPG" alt="AAAI 2026">
+  <img src="/images/photos/aaai-2026-3.jpg" alt="AAAI 2026">
 </div>
 
 
