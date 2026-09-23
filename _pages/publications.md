@@ -7,7 +7,7 @@ author_profile: true
 <style> /* Major publication sections */ .pub-section { margin-top: 2.6em; margin-bottom: 1.25em; padding-bottom: 0.42em; border-bottom: 2px solid #d7e5f0; color: #234f73; font-size: 1.55em; font-weight: 700; line-height: 1.25; } /* Individual publication */ .pub-item { margin: 0 0 1.65em 0; } .pub-title { margin: 0 0 0.55em 0; color: #20252a; font-size: 1.02em; font-weight: 650; line-height: 1.5; } .pub-authors { margin: 0 0 0.65em 0; color: #505a63; font-size: 0.94em; line-height: 1.55; } .dilab-author { color: #2563a6; font-weight: 600; } .pub-venue { margin: 0; color: #687b89; font-size: 0.92em; font-style: italic; line-height: 1.5; } .journal-metric { margin-left: 0.45em; color: #8a969e; font-size: 0.82em; font-style: normal; font-weight: 500; white-space: nowrap; } .pub-note { margin: 0 0 0.55em 0; color: #777; font-size: 0.90em; line-height: 1.55; } .pub-note a { color: #2563a6; text-decoration: none; } .pub-note a:hover { text-decoration: underline; } </style>
 
 <p class="pub-note">We aim to conduct meaningful research in data intelligence and share our work at leading venues.</p>
-<p class="pub-note"><span class="dilab-author">DILAB authors</span> · * Corresponding author · † Equal contribution</p>
+<p class="pub-note"><span class="dilab-author">DILAB members</span> · * Corresponding author · † Equal contribution</p>
 
 <div class="pub-section">Preprints</div>
 
