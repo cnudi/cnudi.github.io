@@ -162,11 +162,21 @@ author_profile: true
 
 <div class="pub-item">
 
+<div class="pub-title">[P] (Work on fairness in GNNs)</div>
+
+<div class="pub-authors"><span class="dilab-author">Soyoung Park</span>, Yeon-Chang Lee, and <span class="dilab-author">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
+
+</div>
+
+<div class="pub-item">
+
 <div class="pub-title">[C] (Work on KV cache translation)</div>
 
-<div class="pub-authors"><span class="dilab-author">Jin-woo Lee</span>, <span class="dilab-author">Minkyung Song</span>, <span class="dilab-author">Junghyun Oh</span>, <span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Soyoung Park</span>, <span class="dilab-author">Sungsu Lim</span>, and Gwangseon Jang</div>
+<div class="pub-authors"><span class="dilab-author">Jin-woo Lee</span>, <span class="dilab-author">Minkyung Song</span>, <span class="dilab-author">Junghyun Oh</span>, <span class="dilab-author">Seunghoon Han</span>, Gwangseon Jang, <span class="dilab-author">Soyoung Park</span>, and <span class="dilab-author">Sungsu Lim</span></div>
 
-<div class="pub-venue">Top-tier Conference · Regular Paper · In Preparation</div>
+<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
 
 </div>
 
@@ -186,7 +196,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jin-woo Lee</span>†, <span class="dilab-author">Minkyung Song</span>†, et al.</div>
 
-<div class="pub-venue">Top-tier Conference · Regular Paper · In Preparation</div>
+<div class="pub-venue">Top-tier Conference · Short Paper · In Preparation</div>
 
 </div>
 
@@ -197,16 +207,6 @@ author_profile: true
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Seunghoon Han</span>, Junhyeong Lee, <span class="dilab-author">Sungsu Lim</span>, and Seunghwa Ryu*</div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · In Preparation</div>
-
-</div>
-
-<div class="pub-item">
-
-<div class="pub-title">[P] (Work on fairness in GNNs)</div>
-
-<div class="pub-authors"><span class="dilab-author">Soyoung Park</span> and <span class="dilab-author">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">Preprint</div>
 
 </div>
 
@@ -228,7 +228,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jun-Hyoung Park</span>, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">Plasma Sources Science and Technology, Accepted</div>
+<div class="pub-venue">Plasma Sources Science and Technology, Accepted <span class="journal-metric">IF 3.5 · Q1</span></div>
 
 </div>
 
