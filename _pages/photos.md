@@ -311,6 +311,7 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-grid">
   <img src="/images/photos/kcc-2022-1.jpg" alt="KCC 2022">
+  <img src="/images/photos/kcc-2022-2.jpg" alt="KCC 2022">
 </div>
 
 
@@ -352,6 +353,8 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-grid">
   <img src="/images/photos/aaai-2020-1.jpg" alt="AAAI 2020">
+  <img src="/images/photos/aaai-2020-2.jpg" alt="AAAI 2020">
+  <img src="/images/photos/aaai-2020-3.jpg" alt="AAAI 2020">
 </div>
 
 
@@ -361,6 +364,7 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-grid">
   <img src="/images/photos/ksc-2019-1.jpg" alt="KSC 2019">
+  <img src="/images/photos/ksc-2019-3.jpg" alt="KSC 2019">
   <img src="/images/photos/ksc-2019-2.jpg" alt="KSC 2019">
 </div>
 
@@ -371,4 +375,13 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-grid">
   <img src="/images/photos/ceic-2019-1.jpg" alt="CEIC 2019">
+</div>
+
+
+<div class="photo-section">DILAB's First Year-End 2018</div>
+
+<div class="photo-meta">Daejeon, Korea · December 2018</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/yearend-2018-1.jpg" alt="CEIC 2019">
 </div>
