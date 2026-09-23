@@ -162,7 +162,7 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[P] (Work on fairness in GNNs)</div>
+<div class="pub-title">[C] (Work on fairness in GNNs)</div>
 
 <div class="pub-authors"><span class="dilab-author">Soyoung Park</span>, Yeon-Chang Lee, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
