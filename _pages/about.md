@@ -403,7 +403,7 @@ and <strong>Mingyu</strong> on completing his M.S.!
 <div class="join-text">
 We welcome motivated students interested in learning from complex and structured data,
 from fundamental methods to real-world applications.
-We currently have <strong>multiple openings for M.S. and Ph.D. students</strong>.
+We currently have <strong>openings for M.S. and Ph.D. students</strong>.
 To apply, please send a CV with a brief introduction and motivation for joining DILAB.
 </div>
 
