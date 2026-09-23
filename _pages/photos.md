@@ -378,7 +378,7 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
-<div class="photo-section">DILAB's First Year-End 2018</div>
+<div class="photo-section">DILAB's First Year-End</div>
 
 <div class="photo-meta">Daejeon, Korea · December 2018</div>
 
