@@ -105,12 +105,14 @@ A collection of moments from conferences and activities with DILAB members.
 </div>
 
 
-<div class="photo-section">UNIST-CNU Workshop 2026</div>
+<div class="photo-section">[1st UNIST-CNU Workshop](https://unist-cnu.github.io/)</div>
 
 <div class="photo-meta">Ulsan, Korea · February 2026</div>
 
 <div class="photo-grid">
   <img src="/images/photos/unist-cnu-2026-01.jpg" alt="UNIST-CNU 2026">
+  <img src="/images/photos/unist-cnu-2026-02.jpg" alt="UNIST-CNU 2026">
+  <img src="/images/photos/unist-cnu-2026-03.jpg" alt="UNIST-CNU 2026">
 </div>
 
 
