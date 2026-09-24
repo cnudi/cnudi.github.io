@@ -410,7 +410,9 @@ and <strong>Mingyu</strong> on completing his M.S.!
 We welcome motivated students interested in learning from complex and structured data,
 from fundamental methods to real-world applications.
 We currently have <strong>openings for M.S. and Ph.D. students</strong>.
-To apply, please send a CV with a brief introduction and motivation for joining DILAB.
+To apply, please send your CV with a brief introduction and motivation to
+<a href="https://sungsu-lim.github.io/"><strong>Prof. Sungsu Lim</strong></a>
+at <a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a>.
 </div>
 
 <div class="openlab-link">
@@ -420,7 +422,4 @@ DILAB 2026 Open Lab Materials →
 </div>
 
 <div class="join-text">
-For research collaborations, feel free to reach out to
-<a href="https://sungsu-lim.github.io/"><strong>Prof. Sungsu Lim</strong></a>
-at <a href="mailto:sungsu@cnu.ac.kr">sungsu@cnu.ac.kr</a>.
-</div>
+For research collaborations, feel free to reach out as well.</div>
