@@ -301,8 +301,14 @@ augmentation for large language models.
 <!-- 항상 보이는 최신 News -->
 
 <div class="news-item">
+<span class="news-date">2026.09</span>
+🎉 Our paper on <strong>traffic forecasting robust to aperiodicity</strong>
+was accepted to <em>NeurIPS 2026</em>.
+</div>
+
+<div class="news-item">
 <span class="news-date">2026.08</span>
-🎉 Our work on <strong>few-shot learning on text-attributed graphs</strong>
+🎉 Our paper on <strong>few-shot learning on text-attributed graphs</strong>
 was accepted to <em>CIKM 2026</em>.
 </div>
 
@@ -313,7 +319,7 @@ was accepted to <em>CIKM 2026</em>.
 
 <div class="news-item">
 <span class="news-date">2026.07</span>
-🎉 Our work on <strong>uncertainty quantification for GNNs</strong>
+🎉 Our paper on <strong>uncertainty quantification for GNNs</strong>
 was presented at <em>ICML 2026</em>.
 </div>
 
@@ -325,7 +331,7 @@ was presented at <em>ICML 2026</em>.
 
 <div class="news-item">
 <span class="news-date">2026.03</span>
-🎉 Our work on <strong>visual token pruning for multimodal LLMs</strong>
+🎉 Our paper on <strong>visual token pruning for multimodal LLMs</strong>
 was presented at <em>WACV 2026</em>.
 </div>
 
@@ -339,7 +345,7 @@ was presented at <em>WACV 2026</em>.
 
 <div class="news-item">
 <span class="news-date">2026.02</span>
-🎉 Our work on <strong>LLM-enhanced graph representation learning</strong>
+🎉 Our paper on <strong>LLM-enhanced graph representation learning</strong>
 was presented at <em>WSDM 2026</em>.
 </div>
 
@@ -375,13 +381,13 @@ on completing their Ph.D. degrees!
 
 <div class="news-item">
 <span class="news-date">2025.06</span>
-🎉 Our work on <strong>zero-shot industrial anomaly segmentation</strong>
+🎉 Our paper on <strong>zero-shot industrial anomaly segmentation</strong>
 was presented at <em>PAKDD 2025</em>.
 </div>
 
 <div class="news-item">
 <span class="news-date">2025.03</span>
-🎉 Our work on <strong>in-context learning in text-attributed graphs</strong>
+🎉 Our paper on <strong>in-context learning in text-attributed graphs</strong>
 was presented at <em>EDBT 2025</em>.
 </div>
 
