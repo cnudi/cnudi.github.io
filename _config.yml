@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "DILAB"
-description              : "Data Intelligence Lab @ CNU"
+description              : ""
 repository               : "cnudi/cnudi.github.io"
 google_scholar_stats_use_cdn : true
 
