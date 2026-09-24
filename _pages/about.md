@@ -241,7 +241,7 @@ redirect_from:
 <div class="lab-intro">
 <p>
 We are the <strong>Data Intelligence Lab (DILAB)</strong> at the
-Department of Computer Science and Engineering, Chungnam National University, Korea 🇰🇷.
+[Department of Computer Science and Engineering](https://comai.cnu.ac.kr/), Chungnam National University, Korea 🇰🇷.
 Our research focuses on <strong>graph machine learning</strong>,
 <strong>trustworthy AI</strong>, <strong>recommender systems & IR</strong>,
 and <strong>GraphRAG & LLMs</strong>.
