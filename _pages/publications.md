@@ -105,16 +105,6 @@ author_profile: true
 
 <div class="pub-title">[C] (Work on traffic forecasting)</div>
 
-<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Sungsu Lim</span>, and Susik Yoon*</div>
-
-<div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
-
-</div>
-
-<div class="pub-item">
-
-<div class="pub-title">[C] (Work on traffic forecasting)</div>
-
 <div class="pub-authors"><span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Junghyun Oh</span>, <span class="dilab-author">Jongmin Park</span>, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
 <div class="pub-venue">Top-tier Conference · Regular Paper · Submitted</div>
@@ -222,6 +212,16 @@ author_profile: true
 </div>
 
 <div class="pub-section">2026</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[C25] (Work on traffic forecasting)</div>
+
+<div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Sungsu Lim</span>, and Susik Yoon*</div>
+
+<div class="pub-venue">NeurIPS · Regular Paper · Acceptance Rate: 25.7%</div>
+
+</div>
 
 <div class="pub-item">
 
