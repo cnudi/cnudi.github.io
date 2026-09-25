@@ -33,7 +33,7 @@ redirect_from:
 .dilab-hero img {
   display: block;
   width: 100%;
-  max-width: 620px;
+  max-width: 540px;
   height: auto;
   margin: 0 auto;
 }
