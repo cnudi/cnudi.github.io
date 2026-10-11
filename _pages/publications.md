@@ -994,7 +994,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-<div class="pub-title">[K33] 이종 그래프 임베딩 기반 과학기술인 교육 플랫폼의 롱테일 과정 추천</div>
+<div class="pub-title">[K33] 이종 그래프 기반 과학기술인 교육 플랫폼의 롱테일 과정 추천</div>
 <div class="pub-authors"><span class="dilab-author">민세미</span>, <span class="dilab-author">임성수</span>*</div>
 <div class="pub-venue">KDBC 2026 · Work-in-Progress · November 2026</div>
 </div>
