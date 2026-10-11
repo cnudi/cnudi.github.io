@@ -987,6 +987,18 @@ author_profile: true
 
 <div class="pub-section">Domestic Publications</div>
 
+<div class="pub-item">
+<div class="pub-title">[K34] 구조 기하 정보를 활용한 바이러스의 면역 회피 변이 예측</div>
+<div class="pub-authors"><span class="dilab-author">송민경</span>†, <span class="dilab-author">이관희</span>†, 손동현, <span class="dilab-author">임성수</span>*, 강남숙*</div>
+<div class="pub-venue">KDBC 2026 · Work-in-Progress · November 2026</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">[K33] 이종 그래프 임베딩 기반 과학기술인 교육 플랫폼의 롱테일 과정 추천</div>
+<div class="pub-authors"><span class="dilab-author">민세미</span>, <span class="dilab-author">임성수</span>*</div>
+<div class="pub-venue">KDBC 2026 · Work-in-Progress · November 2026</div>
+</div>
+
 <div class="pub-item"> <div class="pub-title">[K32] ACE-RAG: Is Broader Retrieval Always Better for GraphRAG? <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="dilab-author">오정현</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
 
 <div class="pub-item"> <div class="pub-title">[K31] MOSAIC: Graph Recommendation via Mixture-of-Experts with LLM-based Community-Aware Intent and Conformity <a class="pub-link" href="https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20260501&CpPage=350#CONF">[link]</a></div> <div class="pub-authors"><span class="dilab-author">송민경</span>, <span class="dilab-author">이진우</span>, <span class="dilab-author">임성수</span>*</div> <div class="pub-venue">2026 한국인공지능학회 하계학술대회 · 포스터세션 · August 2026</div> </div>
