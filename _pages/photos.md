@@ -86,12 +86,13 @@ author_profile: true
 A collection of moments from conferences and activities with DILAB members.
 </p>
 
-<div class="photo-section">SIGIR 2026</div>
+<div class="photo-section">CKAIA Summer 2026</div>
 
-<div class="photo-meta">Melbourne, Australia · July 2026</div>
+<div class="photo-meta">Gyeongju, Korea · August 2026</div>
 
 <div class="photo-grid">
-  <img src="/images/photos/sigir-2026-1.jpg" alt="SIGIR 2026">
+  <img src="/images/photos/ckaia_lab.jpg" alt="CKAIA 2026">
+  <img src="/images/photos/ckaia_jinwoo.jpg" alt="CKAIA 2026">
 </div>
 
 
