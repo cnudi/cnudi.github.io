@@ -241,7 +241,7 @@ author_profile: true
 
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Seunghoon Han</span>, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
-<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted</div>
+<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted <span class="journal-metric">IF 7.3 · Q1</span></div>
 
 </div>
 
@@ -255,21 +255,21 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[J36] Data-Driven Prediction of Total Ionization Cross Sections for Small Molecules Using Graph Neural Networks</div>
-
-<div class="pub-authors"><span class="dilab-author">Jun-Hyoung Park</span>, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and <span class="dilab-author">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">Plasma Sources Science and Technology, Accepted <span class="journal-metric">IF 3.5 · Q1</span></div>
-
-</div>
-
-<div class="pub-item">
-
 <div class="pub-title">[C24] Who Should Teach? Confidence-Aware Dual-Teacher Learning for Few-Shot Node Classification on Text-Attributed Graphs</div>
 
 <div class="pub-authors">Hojin Kim, Sujin Yoon, <span class="dilab-author">Sungsu Lim</span>, Dongwon Lee, and David Yoon Suk Kang*</div>
 
 <div class="pub-venue">CIKM 2026 · Short Paper · Acceptance Rate: 30.9%</div>
+
+</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[J36] Data-Driven Prediction of Total Ionization Cross Sections for Small Molecules Using Graph Neural Networks</div>
+
+<div class="pub-authors"><span class="dilab-author">Jun-Hyoung Park</span>, Young Choon Park, Hyunu Chang, Heechol Choi, Sunghwan Choi, and <span class="dilab-author">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">Plasma Sources Science and Technology, Oct. 2026<span class="journal-metric">IF 3.5 · Q1</span></div>
 
 </div>
 
