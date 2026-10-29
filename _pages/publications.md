@@ -34,16 +34,6 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[J] Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</div>
-
-<div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Seunghoon Han</span>, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), In Revision</div>
-
-</div>
-
-<div class="pub-item">
-
 <div class="pub-title">[J] Structure-Aware Conformal Calibration for Uncertainty Quantification in Recommender Systems</div>
 
 <div class="pub-authors"><span class="dilab-author">Soyoung Park</span>, <span class="dilab-author">Minkyung Song</span>, and <span class="dilab-author">Sungsu Lim</span>*</div>
@@ -241,15 +231,25 @@ author_profile: true
 
 </details>
 
-<div class="pub-section">2026</div>
+<div class="pub-section">2026+</div>
 
 <div class="pub-item">
+
+<div class="pub-item">
+
+<div class="pub-title">[J37] Metapath-based Hyperbolic Contrastive Learning for Heterogeneous Graph Embedding</div>
+
+<div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Seunghoon Han</span>, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted</div>
+
+</div>
 
 <div class="pub-title">[C25] SIMBAD: Spatio-Temporal Traffic Forecasting Robust to Aperiodicity</div>
 
 <div class="pub-authors">Daniel Y. Lee, Seungwon Shin, <span class="dilab-author">Seunghoon Han</span>, <span class="dilab-author">Sungsu Lim</span>*, and Susik Yoon*</div>
 
-<div class="pub-venue">NeurIPS · Regular Paper · Acceptance Rate: 25.7%</div>
+<div class="pub-venue">NeurIPS 2026 · Regular Paper · Acceptance Rate: 25.7%</div>
 
 </div>
 
