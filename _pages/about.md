@@ -302,6 +302,12 @@ augmentation for large language models.
 <!-- 항상 보이는 최신 News -->
 
 <div class="news-item">
+<span class="news-date">2026.11</span>
+🎉 Our paper on <strong>structural clustering for weighted networks</strong>
+was accepted to <em>WSDM 2027</em>.
+</div>
+
+<div class="news-item">
 <span class="news-date">2026.09</span>
 🎉 Our paper on <strong>traffic forecasting robust to aperiodicity</strong>
 was accepted to <em>NeurIPS 2026</em>.
