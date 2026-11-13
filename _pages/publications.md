@@ -141,16 +141,6 @@ author_profile: true
 
 <div class="pub-item">
 
-<div class="pub-title">[C] (Work on efficient GraphRAG)</div>
-
-<div class="pub-authors"><span class="dilab-author">Junghyun Oh</span>, <span class="dilab-author">Jin-woo Lee</span>*, and <span class="dilab-author">Sungsu Lim</span>*</div>
-
-<div class="pub-venue">Top-tier Conference · Short Paper · Submitted</div>
-
-</div>
-
-<div class="pub-item">
-
 <div class="pub-title">[C] (Work on heterogeneous graph embedding)</div>
 
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span>†, <span class="dilab-author">Seunghoon Han</span>†, <span class="dilab-author">Hyewon Lee</span>, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
@@ -232,6 +222,16 @@ author_profile: true
 <div class="pub-authors"><span class="dilab-author">Jongmin Park</span>, <span class="dilab-author">Seunghoon Han</span>, Won-Yong Shin, and <span class="dilab-author">Sungsu Lim</span>*</div>
 
 <div class="pub-venue">IEEE Transactions on Network Science and Engineering (TNSE), Accepted <span class="journal-metric">IF 7.3 · Q1</span></div>
+
+</div>
+
+<div class="pub-item">
+
+<div class="pub-title">[C27] GRef-RAG: Is Broader Retrieval Always Better for GraphRAG?</div>
+
+<div class="pub-authors"><span class="dilab-author">Junghyun Oh</span>, <span class="dilab-author">Jin-woo Lee</span>*, and <span class="dilab-author">Sungsu Lim</span>*</div>
+
+<div class="pub-venue">EACL 2027 Findings · Short Paper · Accepted</div>
 
 </div>
 
