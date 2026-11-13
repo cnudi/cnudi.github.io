@@ -348,14 +348,6 @@ was presented at <em>ICML 2026</em>.
 was presented at <em>WACV 2026</em>.
 </div>
 
-
-<!-- 이전 News -->
-
-<details class="news-more">
-<summary>Show more</summary>
-
-<div class="news-more-content">
-
 <div class="news-item">
 <span class="news-date">2026.02</span>
 🎉 Our paper on <strong>LLM-enhanced graph representation learning</strong>
@@ -367,6 +359,13 @@ was presented at <em>WSDM 2026</em>.
 🎓 Congratulations to <strong>Jongmin</strong> on completing his Ph.D.
 and <strong>Hyewon</strong> on completing her M.S.!
 </div>
+
+<!-- 이전 News -->
+
+<details class="news-more">
+<summary>Show more</summary>
+
+<div class="news-more-content">
 
 <div class="news-item">
 <span class="news-date">2025.11</span>
