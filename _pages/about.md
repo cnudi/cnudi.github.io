@@ -303,6 +303,12 @@ augmentation for large language models.
 
 <div class="news-item">
 <span class="news-date">2026.11</span>
+🎉 Our paper on <strong>retrieval strategies for GraphRAG</strong>
+was accepted to <em>EACL 2027 Findings</em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2026.11</span>
 🎉 Our paper on <strong>structural clustering for weighted networks</strong>
 was accepted to <em>WSDM 2027</em>.
 </div>
