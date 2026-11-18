@@ -86,6 +86,15 @@ author_profile: true
 A collection of moments from conferences and activities with DILAB members.
 </p>
 
+<div class="photo-section">KDBC 2026</div>
+
+<div class="photo-meta">Seoul, Korea · November 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/kdbc-2026-1.jpg" alt="KDBC 2026">
+</div>
+
+
 <div class="photo-section">CKAIA Summer 2026</div>
 
 <div class="photo-meta">Gyeongju, Korea · August 2026</div>
