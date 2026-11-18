@@ -303,6 +303,13 @@ augmentation for large language models.
 
 <div class="news-item">
 <span class="news-date">2026.11</span>
+🎉 Our paper on <strong>learning for heterogeneous graphs</strong>
+was accepted to <em><a href="https://www.comsoc.org/publications/journals/ieee-tnse">IEEE TNSE</a></em>
+(SCIE, JCR Top 3%).
+</div>
+
+<div class="news-item">
+<span class="news-date">2026.11</span>
 🎉 Our paper on <strong>retrieval strategies for GraphRAG</strong>
 was accepted to <em>EACL 2027 Findings</em>.
 </div>
@@ -360,6 +367,13 @@ was presented at <em>WSDM 2026</em>.
 and <strong>Hyewon</strong> on completing her M.S.!
 </div>
 
+<div class="news-item">
+<span class="news-date">2026.01</span>
+🎉 Our paper on <strong>graph anomaly detection</strong>
+was published in <em><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a></em>
+(SCIE, JCR Top 6%).
+</div>
+
 <!-- 이전 News -->
 
 <details class="news-more">
@@ -383,6 +397,13 @@ in the <em><a href="https://alibaba-international-cikm2025.github.io/">CIKM 2025
 <span class="news-date">2025.11</span>
 🎉 Two papers on <strong>fair graph learning</strong> and
 <strong>signed community detection</strong> were presented at <em>CIKM 2025</em>.
+</div>
+
+<div class="news-item">
+<span class="news-date">2025.08</span>
+🎉 Our paper on <strong>LLM-powered image retrieval</strong>
+was published in <em><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications">ESWA</a></em>
+(SCIE, JCR Top 6%).
 </div>
 
 <div class="news-item">
