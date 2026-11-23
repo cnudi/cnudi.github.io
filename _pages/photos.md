@@ -86,6 +86,15 @@ author_profile: true
 A collection of moments from conferences and activities with DILAB members.
 </p>
 
+<div class="photo-section">With DILAB Alumni at a CNU CSE Event</div>
+
+<div class="photo-meta">Daejeon, Korea · November 2026</div>
+
+<div class="photo-grid">
+  <img src="/images/photos/alumni-2026-1.jpg" alt="CNU CSE Event 2026">
+</div>
+
+
 <div class="photo-section">KDBC 2026</div>
 
 <div class="photo-meta">Seoul, Korea · November 2026</div>
