@@ -232,13 +232,13 @@ author_profile: true
 
 <div class="member-list">
 
-<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=V2TxDWcAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
+<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=V2TxDWcAAAAJ">Google Scholar</a> <small class="degree-note">(M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=piMrsTcAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
+<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=piMrsTcAAAAJ">Google Scholar</a> <small class="degree-note">(M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
+<span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a> <small class="degree-note">(M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5 years)</small><br>
+<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a> <small class="degree-note">(M.S./Ph.D., 5 years)</small><br>
 
 <span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a> <small class="degree-note">(Ph.D., 3.5 years)</small>
 
