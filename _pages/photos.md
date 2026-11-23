@@ -92,6 +92,7 @@ A collection of moments from conferences and activities with DILAB members.
 
 <div class="photo-grid">
   <img src="/images/photos/kdbc-2026-1.jpg" alt="KDBC 2026">
+  <img src="/images/photos/kdbc-2026-2.png" alt="KDBC 2026">
 </div>
 
 
