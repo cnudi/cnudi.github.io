@@ -214,6 +214,7 @@ author_profile: true
 <span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPRI</span><br>
 <span class="member-name">Semi Min</span> <span class="member-info">(M.S. Student) — KIRD</span><br>
 <span class="member-name">Aran Cho</span> <span class="member-info">(M.S. Student) — K-water</span>
+<span class="member-name">Haneul Kang</span> <span class="member-info">(M.S. Student) — KISTEP (incoming)/span>
 
 </div>
 
@@ -259,7 +260,9 @@ author_profile: true
 <span class="member-name">Chanuk Lim</span> <span class="member-info">(Ph.D., Feb. 2026) — KISTI</span> · <a href="https://scholar.google.com/citations?user=9Sv-nVgAAAAJ">Google Scholar</a><br>
 
 <span class="member-name">Pilmin Park</span> <span class="member-info">(M.S., Feb. 2023) — Ministry of Data and Statistics</span><br>
-<span class="member-name">Eun-Hyeong Bae</span> <span class="member-info">(M.S., Feb. 2024) — Data Scientist</span><br>
+
+<span class="member-name">Eun-Hyeong Bae</span> <span class="member-info">(M.S., Feb. 2024) — ETECH SYSTEM</span><br>
+
 <span class="member-name">Jiyong Park</span> <span class="member-info">(M.S., Feb. 2025) — K-water</span>
 
 </div>
@@ -295,7 +298,7 @@ author_profile: true
 </div>
 
 
-# Former Visiting Scholars
+# Former Visiting Researchers
 
 <div class="member-list">
 
