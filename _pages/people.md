@@ -100,6 +100,13 @@ author_profile: true
   font-weight: 600;
 }
 
+.degree-note {
+  margin-left: 0.3em;
+  font-size: 0.75em;
+  font-weight: 400;
+  color: #737373;
+}
+
 @media (max-width: 600px) {
   .people-grid {
     grid-template-columns: 1fr;
@@ -211,7 +218,7 @@ author_profile: true
 <span class="member-name">Jinyoung Kim</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
 <span class="member-name">Jae-Wook Seol</span> <span class="member-info">(Ph.D. Candidate) — KISTI</span><br>
 <span class="member-name">Jun-Hyoung Park</span> <span class="member-info">(Ph.D. Candidate) — KFE</span><br>
-<span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPRI</span><br>
+<span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPCO Research Institute</span><br>
 <span class="member-name">Semi Min</span> <span class="member-info">(M.S. Student) — KIRD</span><br>
 <span class="member-name">Aran Cho</span> <span class="member-info">(M.S. Student) — K-water</span><br>
 <span class="member-name">Haneul Kang</span> <span class="member-info">(M.S. Student) — KISTEP (incoming)</span>
@@ -225,15 +232,15 @@ author_profile: true
 
 <div class="member-list">
 
-<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=V2TxDWcAAAAJ">Google Scholar</a><br>
+<span class="member-name">Hwan Kim</span> <span class="member-info">(Feb. 2025) — M.I.Cube, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=V2TxDWcAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=piMrsTcAAAAJ">Google Scholar</a><br>
+<span class="member-name">Soohwan Jeong</span> <span class="member-info">(Aug. 2025) — ADD, Senior Researcher</span> · <a href="https://scholar.google.com/citations?user=piMrsTcAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a><br>
+<span class="member-name">Jeongseon Kim</span> <span class="member-info">(Aug. 2025) — ETRI, Researcher</span> · <a href="https://ksp.etri.re.kr/ksp/user/7ce9b688-2cd9-419b-a808-58fc29a917f3">Homepage</a> <small class="degree-note">(Integrated M.S./Ph.D., 5.5 years)</small><br>
 
-<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a><br>
+<span class="member-name">Jongmin Park</span> <span class="member-info">(Feb. 2026) — ETRI, Researcher</span> · <a href="https://scholar.google.com/citations?user=YvsYgPYAAAAJ">Google Scholar</a> <small class="degree-note">(Integrated M.S./Ph.D., 5 years)</small><br>
 
-<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a>
+<span class="member-name">Soyoung Park</span> <span class="member-info">(Aug. 2026) — InnoCORE Postdoc</span> · <a href="https://scholar.google.com/citations?user=gVs80sgAAAAJ">Google Scholar</a> <small class="degree-note">(Ph.D., 3.5 years)</small>
 
 </div>
 
@@ -246,7 +253,7 @@ author_profile: true
 <span class="member-name">Sub Jae Shin</span> <span class="member-info">(Feb. 2023) — MedySapiens</span><br>
 <span class="member-name">Nakhyeon Seong</span> <span class="member-info">(Aug. 2023)</span><br>
 <span class="member-name">Mingyu Choi</span> <span class="member-info">(Feb. 2025) — AIBIZ</span><br>
-<span class="member-name">Hyewon Lee</span> <span class="member-info">(Feb. 2026) — KAERI, Post-Master's Researcher</span> · <a href="https://scholar.google.com/citations?user=1arNStIAAAAJ">Google Scholar</a>
+<span class="member-name">Hyewon Lee</span> <span class="member-info">(Feb. 2026) — KEPCO Research Institute, Researcher</span> · <a href="https://scholar.google.com/citations?user=1arNStIAAAAJ">Google Scholar</a>
 
 </div>
 
