@@ -213,8 +213,8 @@ author_profile: true
 <span class="member-name">Jun-Hyoung Park</span> <span class="member-info">(Ph.D. Candidate) — KFE</span><br>
 <span class="member-name">Jun-Sung Kim</span> <span class="member-info">(Ph.D. Student) — KEPRI</span><br>
 <span class="member-name">Semi Min</span> <span class="member-info">(M.S. Student) — KIRD</span><br>
-<span class="member-name">Aran Cho</span> <span class="member-info">(M.S. Student) — K-water</span>
-<span class="member-name">Haneul Kang</span> <span class="member-info">(M.S. Student) — KISTEP (incoming)/span>
+<span class="member-name">Aran Cho</span> <span class="member-info">(M.S. Student) — K-water</span><br>
+<span class="member-name">Haneul Kang</span> <span class="member-info">(M.S. Student) — KISTEP (incoming)</span>
 
 </div>
 
